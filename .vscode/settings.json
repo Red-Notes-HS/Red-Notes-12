@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/*.log": true,
+        "**/*.fls": true,
+        "**/*.synctex.gz": true,
+        "**/*.aux": true,
+        "**/*.dvi": true,
+        "**/*.toc": true,
+        "**/*.fdb_latexmk": true,
+    },
+    "editor.useTabStops": false
+}

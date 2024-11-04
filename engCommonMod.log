@@ -1,0 +1,13 @@
+This is TeX, Version 3.141592653 (TeX Live 2024) (preloaded format=tex 2024.10.30)  31 OCT 2024 09:58
+**engCommonMod
+(./engCommonMod.tex
+! Undefined control sequence.
+l.1 \section
+            {Young Girl at a Window}
+? 
+! Undefined control sequence.
+l.2 \begin
+          {itemize}
+? 
+[1] )
+Output written on engCommonMod.dvi (1 page, 544 bytes).
