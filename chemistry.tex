@@ -1,10 +1,12 @@
 \documentclass{report}
 
 \usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
-\usepackage{amsmath, amsthm, booktabs, chemfig, graphicx, float, pgfplots, upgreek}
+\usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, upgreek, siunitx}
+\usepackage{multirow}
 
 \usepackage{chemmacros}
 \chemsetup[phases]{pos=sub}
+\chemsetup[reactants]{concentration-unit=\moLar}
 \chemsetup{
   formula = mhchem, % or mhchem
 }
@@ -22,6 +24,8 @@
 \begin{document}
 \maketitle
 \tableofcontents
+\DeclareSIUnit{\molar}{\mole\per\liter}
+
 
 \include{./chemMod5}
 
