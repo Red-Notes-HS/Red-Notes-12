@@ -1,0 +1,15 @@
+\contentsline {chapter}{\numberline {1}Global Sustainability \tmspace +\thickmuskip {.2777em} Aquaculture}{2}{}%
+\contentsline {section}{\numberline {1.1}Introduction to Aquaculture}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}History}{2}{}%
+\contentsline {subsection}{\numberline {1.1.2}Distribution of Aquaculture}{3}{}%
+\contentsline {section}{\numberline {1.2}Draft Nature and Spatial Patterns Text}{3}{}%
+\contentsline {section}{\numberline {1.3}Influences on the global economic activity}{4}{}%
+\contentsline {subsection}{\numberline {1.3.1}Biophysical Factors}{4}{}%
+\contentsline {subsubsection}{Water Chemistry}{4}{}%
+\contentsline {subsubsection}{Climate}{5}{}%
+\contentsline {subsubsection}{Ecological}{5}{}%
+\contentsline {subsection}{\numberline {1.3.2}Economic}{6}{}%
+\contentsline {subsubsection}{Commodity Prices}{6}{}%
+\contentsline {subsubsection}{Differences in HIC and LIC aquaculture}{6}{}%
+\contentsline {subsubsection}{Urbanisation}{6}{}%
+\contentsline {subsubsection}{Labour Specialisation}{6}{}%
