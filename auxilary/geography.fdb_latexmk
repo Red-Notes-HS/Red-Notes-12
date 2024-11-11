@@ -1,8 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1731196993.5039 "c:/Users/lucas_e/OneDrive - NSW Department of Education/School/Year 12/Notes/geography.tex" "pdf/geography.pdf" "geography" 1731196995.46969 0
-  "auxilary/geoGlobalSustainability.aux" 1731196995 2364 f7921e6727b9649ef58552e43b195176 "pdflatex"
-  "auxilary/geography.aux" 1731196995 69 f744207e4818e992761dfd021a273bd0 "pdflatex"
-  "auxilary/geography.toc" 1731196995 1029 8664e464d7e5f948549b7ab7ae717002 "pdflatex"
+["pdflatex"] 1731320595.25243 "c:/Users/lucas_e/OneDrive - NSW Department of Education/School/Year 12/Notes/geography.tex" "pdf/geography.pdf" "geography" 1731320596.94328 0
+  "Images/global fisheries and aquaculture graph.jpg" 1731319307 104564 6a07f85c42e677eb3225db45d0149b14 ""
+  "auxilary/geoGlobalSustainability.aux" 1731320596 3647 80ff5df3fc696441f909dbfe5b80537b "pdflatex"
+  "auxilary/geography.aux" 1731320596 70 0d25a560b8dfd26393ed7d1b795908fc "pdflatex"
+  "auxilary/geography.toc" 1731320596 1779 430cba1956f38b1053e6690dc417ca6b "pdflatex"
   "c:/Users/lucas_e/OneDrive - NSW Department of Education/School/Year 12/Notes/geography.tex" 1731196887 457 dd45b38a7f428da8b5b0c8da1551d08d ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1730194835 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730197961 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -171,7 +172,7 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1730212092 5521136 47e49b84c41d5ab3414c7e2d0ef6eb2b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1730212361 3325947 8979bc5c951b3b4ce1f959bffb53696f ""
   "c:/texlive/2024/texmf.cnf" 1730212055 713 e69b156964470283e0530f5060668171 ""
-  "geoGlobalSustainability.tex" 1731019199 11761 55f029ed18674af742837389f6618ddd ""
+  "geoGlobalSustainability.tex" 1731320593 20826 148933aaaecf05c69f0a7dcd9ad1ed71 ""
   "geography.tex" 1731196887 457 dd45b38a7f428da8b5b0c8da1551d08d ""
   (generated)
   "auxilary/geoGlobalSustainability.aux"

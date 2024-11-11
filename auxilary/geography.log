@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  10 NOV 2024 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  11 NOV 2024 21:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -539,27 +539,43 @@ Chapter 1.
 
 [4]
 
-[5])
+[5]
+<./Images/global fisheries and aquaculture graph.jpg, id=34, 2017.5375pt x 1120.185pt>
+File: ./Images/global fisheries and aquaculture graph.jpg Graphic file (type jpg)
+<use ./Images/global fisheries and aquaculture graph.jpg>
+Package pdftex.def Info: ./Images/global fisheries and aquaculture graph.jpg  used on input line 182.
+(pdftex.def)             Requested size: 426.79134pt x 236.95505pt.
 
-[6] (auxilary/geography.aux (auxilary/geoGlobalSustainability.aux))
+
+[6 <./Images/global fisheries and aquaculture graph.jpg>]
+
+[7]
+
+[8]
+
+[9]
+
+[10])
+
+[11] (auxilary/geography.aux (auxilary/geoGlobalSustainability.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 24309 strings out of 473577
- 626792 string characters out of 5732224
+ 24322 strings out of 473577
+ 627371 string characters out of 5732224
  1172662 words of memory out of 5000000
- 46828 multiletter control sequences out of 15000+600000
+ 46841 multiletter control sequences out of 15000+600000
  564999 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,121p,784b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on auxilary/geography.pdf (7 pages, 141152 bytes).
+Output written on auxilary/geography.pdf (12 pages, 257413 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
