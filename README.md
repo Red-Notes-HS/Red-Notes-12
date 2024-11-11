@@ -8,8 +8,10 @@ A compilation of notes for:
 - Geography
 
 
-#Todo
-## Notes to update
+To contribute, branch or commit to main idrgaf i'll accept literally any pull request
+
+## Todo
+### Notes to update
 - [ ] Geography
 	- [ ] Add images
 	- [ ] Add syllabus to chapter
@@ -17,7 +19,7 @@ A compilation of notes for:
 - [ ] Physics
 	- [ ] friction, reaction, banking centripetal force
 
-## Homework
+### Homework
 - English
 	- [ ] Finish padlet question
 - Maths
@@ -32,7 +34,3 @@ A compilation of notes for:
 	- [ ] Atomi
 - Geography
 	- [ ] Finish explain question
-
-
-
-To contribute, branch or commit to main idrgaf i'll accept literally any pull request
