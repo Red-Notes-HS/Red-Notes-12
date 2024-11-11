@@ -12,9 +12,9 @@ To contribute, branch or commit to main idrgaf i'll accept literally any pull re
 
 ## Todo
 ### Notes to update
-- [ ] Geography
-	- [ ] Add images
-	- [ ] Add syllabus to chapter
+- [X] Geography
+	- [X] Add images
+	- [X] Add syllabus to chapter
 
 - [ ] Physics
 	- [ ] friction, reaction, banking centripetal force
@@ -28,8 +28,8 @@ To contribute, branch or commit to main idrgaf i'll accept literally any pull re
 	- [ ] EX8E
 	- [ ] EX1E
 - Physics
-	- [ ] depth study
 	- [ ] Submit depth study progress check
+	- [ ] depth study
 - Chemistry
 	- [ ] Atomi
 - Geography
