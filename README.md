@@ -8,7 +8,7 @@ A compilation of notes for:
 - Geography
 
 
-To contribute, branch or commit to main idrgaf i'll accept literally any pull request
+To contribute, branch or commit to main i'll accept literally any pull request
 
 ## Todo
 ### Notes to update
@@ -17,20 +17,21 @@ To contribute, branch or commit to main idrgaf i'll accept literally any pull re
 	- [X] Add syllabus to chapter
 
 - [ ] Physics
-	- [ ] friction, reaction, banking centripetal force
+	- [ ] friction, reaction, banking centripetal force (in progress)
+        - [X] finish prac 5.1-.3
 
 ### Homework
 - English
 	- [ ] Finish padlet question
 - Maths
-	- [ ] EX8C
+	- [ ] EX8C Do on tuesday
 	- [ ] EX8D
 	- [ ] EX8E
 	- [ ] EX1E
 - Physics
-	- [ ] Submit depth study progress check
+	- [X] Submit depth study progress check
 	- [ ] depth study
 - Chemistry
 	- [ ] Atomi
 - Geography
-	- [ ] Finish explain question
+	- [ ] Finish explain question due thursday
