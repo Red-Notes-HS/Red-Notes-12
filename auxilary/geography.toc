@@ -1,15 +1,27 @@
 \contentsline {chapter}{\numberline {1}Global Sustainability \tmspace +\thickmuskip {.2777em} Aquaculture}{2}{}%
-\contentsline {section}{\numberline {1.1}Introduction to Aquaculture}{2}{}%
-\contentsline {subsection}{\numberline {1.1.1}History}{2}{}%
-\contentsline {subsection}{\numberline {1.1.2}Distribution of Aquaculture}{3}{}%
-\contentsline {section}{\numberline {1.2}Draft Nature and Spatial Patterns Text}{3}{}%
-\contentsline {section}{\numberline {1.3}Influences on the global economic activity}{4}{}%
-\contentsline {subsection}{\numberline {1.3.1}Biophysical Factors}{4}{}%
-\contentsline {subsubsection}{Water Chemistry}{4}{}%
-\contentsline {subsubsection}{Climate}{5}{}%
-\contentsline {subsubsection}{Ecological}{5}{}%
-\contentsline {subsection}{\numberline {1.3.2}Economic}{6}{}%
-\contentsline {subsubsection}{Commodity Prices}{6}{}%
-\contentsline {subsubsection}{Differences in HIC and LIC aquaculture}{6}{}%
-\contentsline {subsubsection}{Urbanisation}{6}{}%
-\contentsline {subsubsection}{Labour Specialisation}{6}{}%
+\contentsline {section}{\numberline {1.1}Syllabus}{2}{}%
+\contentsline {section}{\numberline {1.2}Introduction to Aquaculture}{4}{}%
+\contentsline {subsection}{\numberline {1.2.1}History}{4}{}%
+\contentsline {subsection}{\numberline {1.2.2}Distribution of Aquaculture}{5}{}%
+\contentsline {section}{\numberline {1.3}Draft Nature and Spatial Patterns Text}{5}{}%
+\contentsline {section}{\numberline {1.4}Influences on the global economic activity}{6}{}%
+\contentsline {subsection}{\numberline {1.4.1}Biophysical Factors}{6}{}%
+\contentsline {subsubsection}{Water Chemistry}{7}{}%
+\contentsline {subsubsection}{Climate}{7}{}%
+\contentsline {subsubsection}{Ecological}{7}{}%
+\contentsline {subsection}{\numberline {1.4.2}Economic Factors}{8}{}%
+\contentsline {subsubsection}{Commodity Prices}{8}{}%
+\contentsline {subsubsection}{Differences in HIC and LIC aquaculture}{8}{}%
+\contentsline {subsubsection}{Urbanisation}{8}{}%
+\contentsline {subsubsection}{Labour Specialisation}{8}{}%
+\contentsline {subsection}{\numberline {1.4.3}Technological Factors}{9}{}%
+\contentsline {subsubsection}{Transport and Retail Technologies}{9}{}%
+\contentsline {subsection}{\numberline {1.4.4}Organisational Factors}{9}{}%
+\contentsline {subsubsection}{Ownership}{10}{}%
+\contentsline {subsubsection}{Control}{10}{}%
+\contentsline {subsubsection}{Labelling and Decision Making}{10}{}%
+\contentsline {subsection}{\numberline {1.4.5}Political Factors}{10}{}%
+\contentsline {subsubsection}{International Trade}{10}{}%
+\contentsline {subsubsection}{Asia-Pacific Trade}{11}{}%
+\contentsline {subsubsection}{Legislation}{11}{}%
+\contentsline {subsubsection}{International Geopolitics}{11}{}%
