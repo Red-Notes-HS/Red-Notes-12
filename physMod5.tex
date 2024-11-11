@@ -5,27 +5,71 @@
 \section{Practical Investigation 5.1}
 	Aim: To confirm the dependence of the range of a projectile (the horizontal distance it travels) on its time of flight and launch velocity by predicting the landing point of a projectile and then testing the prediction.
 
+	\subsection{Variables}
+	\begin{table}[htbp]
+		\centering
+		\begin{tabular}{l|l|l}
+			Independent & Dependent & Controlled \\ \hline
+			Height of drop 	& Initial velocity 	& Angle of ramp \\
+			 				& Range 			& Distance of flat surface \\
+			 				& 					& Acceleration due to gravity \\
+			 				& 					& Type and size of ball \\ 
+		\end{tabular}
+	\end{table}
+
+	\subsection{Materials}
+	\begin{enumerate}
+		\item Ball
+		\item Inclined plane
+		\item Pen
+		\item Stopwatch
+		\item Ruler
+	\end{enumerate}
+
 	\subsection{Method}
 		\begin{enumerate}
-			\item Mark a point on the ramp, where the ball can be consistently released from the same position
-			\item Measure the horizontal distance from the end of the ramp to the edge of the table
-			\item Release the ball and time how long it takes to travel the horizontal distance from the base of the ramp to the edge of the table
-			\item Repeat the test three times
+			\item Prepare a ramp facing the edge of the table, 50 cm away.
+			\item Mark 5 cm intervals along ramp
+			\item Release ball at an interval
+			\item Record time taken to travel 50cm flat distance and distance from table after drop
+			\item Repeat steps 3-4 for each interval 3 times.
+			\item Calculate the initial velocity of the drop using v = delta s/delta t
+			\item Calculate the time of flight using height of table ($height=\frac{1}{2}\times (-9.8)t^2$), hence estimate the horizontal range of the ball ($s_{x} = ut$)
+			\item Graph estimated range and actual range over velocity and compare.
 		\end{enumerate}
+
+	\subsection{Results}
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=15cm]{prac 5.1 table of results.png}
+		\end{figure}
 
 	\subsection{Data and Analysis}
 		\begin{enumerate}
-			\item Is the velocity being calculated the velocity of the ball at the edge of the table? If not, is it a reasonable approximation? Explain your answer.
-			\item What effect would increasing the horizontal distance have on the reliability of your measurements?
-			\item Calculate the time it takes for the ball to fall from the table to the floor
-			\item Calculate the distance the ball will travel in the horizontal direction, ie. the range.
+			\item \textbf{Is the velocity being calculated the velocity of the ball at the edge of the table? If not, is it a reasonable approximation? Explain your answer.}
+				\subitem Although the calculated velocity is not completely accurate due to friction forces, it is a reasonable approximation when assuming friction is minimal.
+			\item \textbf{What effect would increasing the horizontal distance have on the reliability of your measurements?}
+				\subitem Increasing the distance would make the experiment more reliable at the cost of accuracy.
 		\end{enumerate}
 
+	\subsection{Discussion}
+		Controlled variables were somewhat maintained to provide validity to the experiment, however numerous sources of error arose. Sources of error included:
+		\begin{itemize}
+			\item Ramp moving after ball was placed
+			\item Irregular ball movements due to variations in placement and imperfections of ramp
+			\item Inconsistency of measurement of horizontal range
+			\item Timing of ball over flat distance
+		\end{itemize}
+		These errors were mitigated, however could not be avoided. The experiment was repeated three times for each interval to reduce the effect of outliers. More tests per interval could have been conducted to improve the reliability.
+	
 	\subsection{Conclusion}
 		\begin{enumerate}
-			\item State whether your prediction was successful, and describe any difficulties encountered in testing the prediction.
-			\item In this experiment, the assumption was made that there is negligible effect from air resistance. Would the effect of air resistance be more significant if the ball was released from a height of 30 cm up the ramp or 15 cm? Explain.
-			\item What is the major source of error in this experiment? What steps were taken to minimise it?
+			\item \textbf{State whether your prediction was successful, and describe any difficulties encountered in testing the prediction.}
+				\subitem The prediction was successful, with a small but consistent variation from the expected value.
+			\item \textbf{In this experiment, the assumption was made that there is negligible effect from air resistance. Would the effect of air resistance be more significant if the ball was released from a height of 30 cm up the ramp or 15 cm? Explain.}
+				\subitem If released from a higher point, the effect of air resistance would be more significant as there are more air particles applying friction forces to the ball. However, the effect of this resistance would still be minimal.
+			\item \textbf{What is the major source of error in this experiment? What steps were taken to minimise it?}
+				\subitem The major source of error in this experiment is the human variation when timing with the stopwatch. This was mitigated by using slow motion cameras to more accurately measure the time taken for the ball to travel across the flat surface.
 		\end{enumerate}
 
 
@@ -77,14 +121,46 @@
 			\end{tabular}
 		\end{table}
 
+		\begin{table}[htbp]
+			\centering
+			  \begin{tabular}{lllllllll}
+			  Angle \textdegree & \multicolumn{4}{l}{Time (s)}      & \multicolumn{3}{l}{Horizontal Range (m)} &  \\
+					& Trial 1 & T2    & T3    & \textbf{Avg} & Trial 1 & 2     & 3     & \textbf{Avg} \\
+			  0     & 0.46  & 0.41  &       & \textbf{0.44} & 1.50  & 1.65  &       & \textbf{1.58} \\
+			  10    & 0.46  & 0.61  & 0.59  & \textbf{0.55} & 1.94  & 2.00  & 1.85  & \textbf{1.93} \\
+			  20    & 0.61  & 0.65  & 0.58  & \textbf{0.61} & 2.03  & 1.98  & 2.00  & \textbf{2.00} \\
+			  30    & 0.83  & 0.71  & 0.83  & \textbf{0.79} & 2.07  & 2.12  & 2.19  & \textbf{2.12} \\
+			  40    & 0.79  & 0.70  & 0.78  & \textbf{0.76} & 2.22  & 2.16  & 2.14  & \textbf{2.17} \\
+			  50    & 0.85  & 0.83  & 0.93  & \textbf{0.87} & 1.99  & 1.85  & 2.03  & \textbf{1.96} \\
+			  60    & 0.96  & 0.85  & 0.88  & \textbf{0.90} & 1.708 & 1.76  & 1.59  & \textbf{1.69} \\
+			  70    & 0.85  & 0.83  & 0.86  & \textbf{0.85} & 1.14  & 1.21  & 1.31  & \textbf{1.22} \\
+			  \end{tabular}
+		\end{table}
+
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=15cm]{prac 5.2 horiz range over angle.png}
+		\end{figure}
+
+	\subsection{Conclusion}
+		\begin{enumerate}
+			\item \textbf{How did the measured horizontal velocities compare to the average horizontal velocities?}
+				\subitem The measured horizontal velocities were similar to the average horizontal velocities.
+			\item \textbf{For any projectile launched horizontally, what can you state about the horizontal velocity?}
+				\subitem The horizontal velocity will be constant throughout the time of flight
+			\item \textbf{Which launch agngle will yield the maximum range?}
+				\subitem 40\textdegree
+			\item \textbf{Are there launch angles that yield the same range? What are they and why is that the case?}
+				\subitem There are some launch angles that yield the same range. This is due to the parabolic shape of the range versus angle graph, meaning that there are two points on either side of the ideal (40\textdegree) that provide the same range.
+		\end{enumerate}
 
 \section{Circular Motion} \label{4/11/2024}
-\subsection{Uniform Circular Motion}
-Occurs when objects travel in a circle at a constant speed, taking the same length of time to make each revolution
+	\subsection{Uniform Circular Motion}
+	Occurs when objects travel in a circle at a constant speed, taking the same length of time to make each revolution
 
-The period T is the time taken to travel the full circle
+	The period T is the time taken to travel the full circle
 
-The distance covered during the period depends upon the radius of the circle of travel and is equal to the circle's circumference, ie. $d=2\pi r$
+	The distance covered during the period depends upon the radius of the circle of travel and is equal to the circle's circumference, ie. $d=2\pi r$
 
 
 
@@ -92,25 +168,46 @@ The distance covered during the period depends upon the radius of the circle of 
 
 	Aim: To investigate the relationship between the centripetal force acting on an object moving in a circle of constant radiusand the frequency of revolution.
 
-\subsection{Method}
-	\begin{enumerate}
-		\item Securely tie one end of the fishing line to the small, soft mass
-		\item Pass the fishing line down through the thin plastic tube and attach a 50g slotted mass carrier to the end.
-		\item Attach an alligator clip tot he line to act as a marker for a measured radius of aroudn 1 m.
-		\item Spin the stopper in a horizontal circular path at a speed that pulls the paperclip up to, but not touching the bottom of the tube.
-		\item Measure time taken for 20 revolutions
-		\item Add 50g and repeat steps.
-	\end{enumerate}
+	\subsection{Method}
+		\begin{enumerate}
+			\item Securely tie one end of the fishing line to the small, soft mass
+			\item Pass the fishing line down through the thin plastic tube and attach a 50g slotted mass carrier to the end.
+			\item Attach an alligator clip to the line to act as a marker for a measured radius of around 1 m.
+			\item Spin the stopper in a horizontal circular path at a speed that pulls the paperclip up to, but not touching the bottom of the tube.
+			\item Measure time taken for 20 revolutions
+			\item Add 50g and repeat steps.
+		\end{enumerate}
 
-	\begin{table}[htbp]
-		\centering
-		\begin{tabular}{llllllllll}
-		Mass (kg) & \multicolumn{4}{c}{Time for 20 revolutions (s)} & \multicolumn{1}{l}{Period (s)} & \multicolumn{1}{l}{f=1/T} & \multicolumn{1}{l}{$F_c$ (N)} & \multicolumn{1}{l}{$F_G$ (N)} & \multicolumn{1}{l}{$\omega$ \textdegree$s^{-1}$} \\
-				& \multicolumn{1}{l}{Trial 1} & 2     & 3     & \multicolumn{1}{l}{Avg} &       &       &       &       &  \\ \hline
-		\multicolumn{1}{r}{0.05} & 10.34 & 10.78 & 12.34 & 11.15 & 0.558 & 1.79  & 0.6601 & 0.49  & 11.27 \\
-		\multicolumn{1}{r}{0.1} & 9.00  & 8.97  & 8.85  & 8.94  & 0.447 & 2.24  & 1.027 & 0.98  & 14.06 \\
-		\multicolumn{1}{r}{0.15} & 7.93  & 7.22  & 7.25  & 7.47  & 0.373 & 2.68  & 1.473 & 1.47  & 16.83 \\
-		\multicolumn{1}{r}{0.2} & 6.56  & 6.47  & 7.03  & 6.69  & 0.334 & 2.99  & 1.837 & 1.96  & 18.79 \\
-		\end{tabular}
-	\end{table}
-	
+		\begin{table}[htbp]
+			\centering
+			\begin{tabular}{llllllllll}
+			Mass (kg) & \multicolumn{4}{c}{Time for 20 revolutions (s)} & \multicolumn{1}{l}{Period (s)} & \multicolumn{1}{l}{f=1/T} & \multicolumn{1}{l}{$F_c$ (N)} & \multicolumn{1}{l}{$F_G$ (N)} & \multicolumn{1}{l}{$\omega$ \textdegree$s^{-1}$} \\
+					& \multicolumn{1}{l}{Trial 1} & 2     & 3     & \multicolumn{1}{l}{Avg} &       &       &       &       &  \\ \hline
+			\multicolumn{1}{r}{0.05} & 10.34 & 10.78 & 12.34 & 11.15 & 0.558 & 1.79  & 0.6601 & 0.49  & 11.27 \\
+			\multicolumn{1}{r}{0.1} & 9.00  & 8.97  & 8.85  & 8.94  & 0.447 & 2.24  & 1.027 & 0.98  & 14.06 \\
+			\multicolumn{1}{r}{0.15} & 7.93  & 7.22  & 7.25  & 7.47  & 0.373 & 2.68  & 1.473 & 1.47  & 16.83 \\
+			\multicolumn{1}{r}{0.2} & 6.56  & 6.47  & 7.03  & 6.69  & 0.334 & 2.99  & 1.837 & 1.96  & 18.79 \\
+			\end{tabular}
+		\end{table}
+		
+	\subsection{Data and Analysis}
+		Measured radius of revolution: 0.5m
+		\begin{enumerate}
+			\item \textbf{What force is the mass carrier providing in this experiment}
+				\subitem The mass carrier is exerting a gravitational force on the string
+		\end{enumerate}
+
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=8cm]{5.3 graphs.png}
+		\end{figure}
+
+	\subsection{Conclusion}
+		\begin{enumerate}
+			\item \textbf{Based on your results, what is the relationship between the centripetal force and the frequency of rotation? Do your results confirm what was expected from theory? Comment on any differences.}
+				\subitem Based on the results, centripetal force has an square root graph relationship to frequency of rotation. This is expected, as $F_{c}=\frac{mv^2}{r}$, with velocity being squared.
+			\item \textbf{The radius of revolution will not actually be quite what was measured, nor will the tension in the string be exactly equal to the centripetal force. Why is this so?}
+				\subitem Due to human inaccuracies, the radius of revolution will vary as the mass moves up and down. It is difficult to maintain a set tension, so this variation is expected. Because of this, the tension will also not be equal to the weight force applied by the mass.
+			\item \textbf{What effect does this have on your results}
+				\subitem This will shift the results slightly away from the expected value, but each factor somewhat counteracts the other so this is minimised.
+		\end{enumerate}

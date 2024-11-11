@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  10 NOV 2024 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  11 NOV 2024 22:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -631,28 +631,54 @@ Chapter 1.
 
 
 ]
+<./Images/prac 5.1 table of results.png, id=20, 526.96875pt x 525.965pt>
+File: ./Images/prac 5.1 table of results.png Graphic file (type png)
+<use ./Images/prac 5.1 table of results.png>
+Package pdftex.def Info: ./Images/prac 5.1 table of results.png  used on input line 44.
+(pdftex.def)             Requested size: 426.79134pt x 425.99721pt.
 
-[3{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
 
-[4] (auxilary/physics.aux (auxilary/./physMod5.aux))
+[3 <./Images/prac 5.1 table of results.png>]
+
+[4{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<./Images/prac 5.2 horiz range over angle.png, id=34, 427.707pt x 285.576pt>
+File: ./Images/prac 5.2 horiz range over angle.png Graphic file (type png)
+<use ./Images/prac 5.2 horiz range over angle.png>
+Package pdftex.def Info: ./Images/prac 5.2 horiz range over angle.png  used on input line 142.
+(pdftex.def)             Requested size: 426.79134pt x 284.97394pt.
+
+
+[5]
+
+[6 <./Images/prac 5.2 horiz range over angle.png>]
+<./Images/5.3 graphs.png, id=43, 244.41313pt x 322.70563pt>
+File: ./Images/5.3 graphs.png Graphic file (type png)
+<use ./Images/5.3 graphs.png>
+Package pdftex.def Info: ./Images/5.3 graphs.png  used on input line 202.
+(pdftex.def)             Requested size: 227.62204pt x 300.54152pt.
+
+
+[7])
+
+[8 <./Images/5.3 graphs.png>] (auxilary/physics.aux (auxilary/./physMod5.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26532 strings out of 473577
- 682608 string characters out of 5732224
- 1181039 words of memory out of 5000000
- 49036 multiletter control sequences out of 15000+600000
+ 26565 strings out of 473577
+ 683817 string characters out of 5732224
+ 1186039 words of memory out of 5000000
+ 49069 multiletter control sequences out of 15000+600000
  564999 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,10n,121p,805b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on auxilary/physics.pdf (5 pages, 116023 bytes).
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on auxilary/physics.pdf (9 pages, 276523 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
