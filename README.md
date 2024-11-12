@@ -17,7 +17,7 @@ To contribute, branch or commit to main i'll accept literally any pull request
 	- [X] Add syllabus to chapter
 
 - [ ] Chemistry
-	- [ ] Equilibrium and stuff
+	- [ ] Equilibrium slides
 
 - [ ] Physics
 	- [ ] friction, reaction, banking centripetal force (in progress)
@@ -30,7 +30,7 @@ To contribute, branch or commit to main i'll accept literally any pull request
 	- [ ] EX8C Do for monday 18/11
 	- [ ] EX8D
 	- [ ] EX8E
-	- [ ] EX1E
+	- [X] EX1E
 - Physics
 	- [X] Submit depth study progress check
 	- [ ] depth study
