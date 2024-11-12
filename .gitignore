@@ -4,4 +4,4 @@
 *.toc
 *.fdb_latexmk
 *.synctex.gz
-*\._wordcount_selection.tex
+*._wordcount_selection.tex
