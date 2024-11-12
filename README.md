@@ -10,18 +10,15 @@ A compilation of notes for:
 
 To contribute, branch or commit to main i'll accept literally any pull request
 
-## Todo Week 5
+## Todo (Week 5)
 ### Notes to update
-- [X] Geography
-	- [X] Add images
-	- [X] Add syllabus to chapter
-
-- [ ] Chemistry
-	- [ ] Equilibrium slides
-
-- [ ] Physics
-	- [ ] friction, reaction, banking centripetal force (in progress)
-        - [X] finish prac 5.1-.3
+| Subject		| Updates									| Completed		|
+|-----------	|-----------------------------------------	| -----------	|
+| English		| Add images<br>Add syllabus				| ✅				|
+| Maths			|											|				|
+| Physics		| Centripetal force slides<br>Prac 5.1-.3 	| ✅				|
+| Chemistry		| Equilibrium slides						| ❌				|
+| Geography		|											|				|
 
 ### Homework
 - English
