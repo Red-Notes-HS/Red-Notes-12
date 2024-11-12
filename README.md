@@ -26,9 +26,9 @@ To contribute, branch or commit to main idrgaf i'll accept literally any pull re
 	- [ ] EX8C
 	- [ ] EX8D
 	- [ ] EX8E
-	- [ ] EX1E
+	- [X] EX1E
 - Physics
-	- [ ] Submit depth study progress check
+	- [X] Submit depth study progress check
 	- [ ] depth study
 - Chemistry
 	- [ ] Atomi
