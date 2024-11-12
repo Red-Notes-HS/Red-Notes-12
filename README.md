@@ -10,11 +10,14 @@ A compilation of notes for:
 
 To contribute, branch or commit to main i'll accept literally any pull request
 
-## Todo
+## Todo Week 5
 ### Notes to update
 - [X] Geography
 	- [X] Add images
 	- [X] Add syllabus to chapter
+
+- [ ] Chemistry
+	- [ ] Equilibrium and stuff
 
 - [ ] Physics
 	- [ ] friction, reaction, banking centripetal force (in progress)
@@ -24,7 +27,7 @@ To contribute, branch or commit to main i'll accept literally any pull request
 - English
 	- [ ] Finish padlet question
 - Maths
-	- [ ] EX8C Do on tuesday
+	- [ ] EX8C Do for monday 18/11
 	- [ ] EX8D
 	- [ ] EX8E
 	- [ ] EX1E
