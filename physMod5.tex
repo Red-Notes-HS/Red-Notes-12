@@ -162,8 +162,6 @@
 
 	The distance covered during the period depends upon the radius of the circle of travel and is equal to the circle's circumference, ie. $d=2\pi r$
 
-
-
 \section{Practical Investigation 5.3 - Circular Motion - centripetal force in a horizontal plane}
 
 	Aim: To investigate the relationship between the centripetal force acting on an object moving in a circle of constant radiusand the frequency of revolution.
@@ -211,3 +209,98 @@
 			\item \textbf{What effect does this have on your results}
 				\subitem This will shift the results slightly away from the expected value, but each factor somewhat counteracts the other so this is minimised.
 		\end{enumerate}
+
+\section{Types of Centripetal Force} \label{11/11/2024}
+	Centripetal force is not a fundemental force, rather a label given to the net force that causes an object to move in a circular path. Centripetal force can occur due to:
+	\begin{itemize}
+		\item Friction
+		\item Banking (Reaction force at an angle)
+		\item Tension
+		\item Gravity
+		\item Magnetic force
+		\item Electrostatic force
+	\end{itemize}
+
+	\subsection{Centripetal Force by Friction}
+		Sideways (lateral) friction between the tyres and the road opposes the inertial outward (tangential) motion, acting inwards towards the centre of the curve.
+
+		As this sideways friction makes up the magnitude of the net force, it is the centripetal force that keeps the car moving around the curve.
+
+		$$F_{net} = F_f = \mu N$$
+
+		$$F_c = \mu N = \mu (-W) = \frac{mv^2}{r}$$
+
+		\textbf{Sample Problem}
+
+		A 1200 kg car approaches a tight corner on a wet day. If the corner has a radius of curvature of 10 m and the coefficient of friction of the tyres on the wet road is 0.4, what is the maximum speed at which the car can safely turn the corner?
+
+		$$m = 1200\;\text{kg},\; r = 10\;\text{m},\;\mu = 0.4,\; F_{c} = ?$$
+
+		\begin{align*}
+			W &= mg = (1200)(9.8) = 11800\;\text{N downwards} \\
+			R &= -W = -11800\;\text{N upwards}
+		\end{align*}
+
+		\begin{align*}
+			F_{f} &= \mu R \\
+			&= (0.4)(11800) \\
+			&= 4720\;\text{N inwards towards the centre of the corner}
+		\end{align*}
+
+		The centripetal force must not exceed the frictional force if the car is to corner safely, therefore:
+		\begin{align*}
+			F_f &\ge F_c \\
+			F_f &\ge \frac{mv^2}{r} \\
+			4720 &\ge \frac{1200 \times v^2}{10} \\
+			v &\le \sqrt{\frac{4720 \times 10}{1200}} \\
+			v &\le 6.2ms^{-1} \\
+		\end{align*}
+		Therefore, the car can turn less than than 6.3 m/s (23 km/h)
+
+	\subsection{Centripetal Force by Reaction Force}
+		If the object undergoing centripetal motion is leaning at an angle, the normal reaction force needs to be dissected into vertical and horizontal components.
+
+		The perpendicular component ($R_{\perp}$) is equal and opposite to the weight force ($W$)
+
+		$$R_{\perp} = -W = 0$$
+
+		$F_{net}$ is the parallel component of the normal reaction force
+
+		$$R_{\parallel} = R \sin{\theta}$$
+	
+	\subsection{Centripetal Force by Banking}
+		The angling of a surface that an object is moving in a circular motion maximises the speed at which the object can move.
+
+		$$F_{net} = R\sin{\theta} + F_{f}\cos{\theta}$$
+
+		The net force acting horizontally towards the centre of the curve is the sum of the horizontal components of the normal reaction force $R_R$ and the frictional force $F_f$.
+
+	\subsection{Centripetal Force by Tension}
+		\begin{align*}
+			F_{net} &= F_c \\
+			&= T + W
+		\end{align*}
+		Resolving the horizontal component:
+		\begin{align*}
+			\theta &= \arccos{\frac{F_{net}}{T}} \\
+			F_{net} &= T\cos{\theta}
+		\end{align*}
+		Resolving the vertical component:
+		\begin{align*}
+			\theta &= \arcsin{\frac{W}{T}} \\
+			W &= T\sin{\theta}
+		\end{align*}
+		\begin{figure}
+			\centering
+			\includegraphics[height=8cm]{tension diagram.png}
+		\end{figure}
+
+	\subsection{Conical Pendulum}
+		Tension force of the pendulum provides centripetal force
+
+		$$F_c = T\sin{\theta} = \frac{mc^2}{r}$$
+
+		The radius can be calculated from the length of the pendulum:
+
+		$$r=l\sin{\theta}$$
+		
