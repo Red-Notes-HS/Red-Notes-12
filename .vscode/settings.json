@@ -1,17 +1,19 @@
 {
 	"files.exclude": {
-		"**/.git": true,
-		"**/.svn": true,
-		"**/.hg": true,
-		"**/CVS": true,
 		"**/.DS_Store": true,
+		"**/CVS": true,
 		"**/Thumbs.db": true,
-		"**/.aux": true,
-		"**/.fls": true,
-		"**/.log": true,
-		"**/.toc": true,
-		"**/.fdb_latexmk": true,
-		"**/.synctex.gz": true,
+		"**/*.aux": true,
+		"**/*.fdb_latexmk": true,
+		"**/*.fls": true,
+		"**/*.git": true,
+		"**/*.hg": true,
+		"**/*.log": true,
+		"**/*.svn": true,
+		"**/*.synctex.gz": true,
+		"**/*.toc": true,
+		"**/*.out": true,
+		"**/*._wordcount_selection.tex": true
 	},
 	"editor.useTabStops": false,
 	"latex-workshop.latex.outDir": "./pdf",
@@ -50,5 +52,10 @@
 			]
 		}
 	],
-	"explorer.excludeGitIgnore": true
+	"explorer.excludeGitIgnore": false,
+	"search.useGlobalIgnoreFiles": true,
+	"search.exclude": {
+		"**/*.synctex.gz": true,
+		"**/spellright.dict": true
+	}
 }

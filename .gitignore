@@ -6,3 +6,4 @@
 *.fdb_latexmk
 *.synctex.gz
 *._wordcount_selection.tex
+*spellright.dict
