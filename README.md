@@ -23,6 +23,7 @@ To contribute, branch or commit to main i'll accept literally any pull request
 ### Homework
 - English
 	- [ ] Finish padlet question
+ - [ ] finish notes and annotations
 - Maths
 	- [ ] EX8C Do for monday 18/11
 	- [ ] EX8D
@@ -30,6 +31,7 @@ To contribute, branch or commit to main i'll accept literally any pull request
 	- [X] EX1E
 - Physics
 	- [X] Submit depth study progress check
+ - [ ] centripetal motion worksheets
 	- [ ] depth study
 - Chemistry
 	- [ ] Atomi
