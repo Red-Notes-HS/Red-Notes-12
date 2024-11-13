@@ -12,13 +12,13 @@ To contribute, branch or commit to main i'll accept literally any pull request
 
 ## Todo (Week 5)
 ### Notes to update
-| Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| Completed|
-|-----------	|-----------------------------------------						| -----------	|
-| English &nbsp; &nbsp; | 									| ✅				|
-| Maths				|																|				|
-| Physics		| Centripetal force slides <br> Prac 5.1-.3 						| ✅				|
-| Chemistry		| Equilibrium slides											| ❌				|
-| Geography		| Add images<br>Add syllabus					|				|
+| Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀	| Completed		|
+|-----------	|-----------------------------------------			| -----------	|
+| English 		| 													| ✅				|
+| Maths			| 													|				|
+| Physics		| Centripetal force slides <br> Prac 5.1-.3 		| ✅				|
+| Chemistry		| Equilibrium constant slides								| ❌				|
+| Geography		| Add images<br>Add syllabus						|				|
 
 ### Homework
 - English
