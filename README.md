@@ -17,7 +17,7 @@ To contribute, branch or commit to main i'll accept literally any pull request
 | English &nbsp; &nbsp; | 									| ✅				|
 | Maths				|																|				|
 | Physics		| Centripetal force slides <br> Prac 5.1-.3 						| ✅				|
-| Chemistry		| Equilibrium slides											| ❌				|
+| Chemistry		| Equilibrium slides hurry tf up											| ❌				|
 | Geography		| Add images<br>Add syllabus					|				|
 
 ### Homework
