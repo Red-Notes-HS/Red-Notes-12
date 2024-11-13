@@ -2,6 +2,7 @@
 *.fls
 *.log
 *.toc
+*.out
 *.fdb_latexmk
 *.synctex.gz
 *._wordcount_selection.tex
