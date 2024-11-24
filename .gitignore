@@ -7,3 +7,4 @@
 *.synctex.gz
 *._wordcount_selection.tex
 *spellright.dict
+**/*mathsWorkedSolutions
