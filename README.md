@@ -10,14 +10,13 @@ A compilation of notes for:
 To contribute, branch or commit to main I'll accept literally any pull request
 The issues tab can be used to request new notes or to identify errors in the notes.
 
-## To-do (Week 7)
-### Notes to update
+## Recent Updates (Week 7)
 | Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| New Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀				 |
 |-----------		|-----------------------------------------					|
 | English 			| 															|
 | Maths				| 															|
 | Physics			| 															|
-| Chemistry			| 															|
+| Chemistry			| Solutions Equilibria															|
 | Geography			| A few stats on aquaculture								|
 
 ### Homework
@@ -34,4 +33,5 @@ The issues tab can be used to request new notes or to identify errors in the not
 - Chemistry
 	- [ ] wk. 5 atomi
 	- [ ] wk. 6 atomi
+        - [ ] wk. 7 atomi (just give up atp)
 - Geography
