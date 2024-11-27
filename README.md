@@ -7,33 +7,31 @@ A compilation of notes for:
 - Chemistry
 - Geography
 
+To contribute, branch or commit to main I'll accept literally any pull request
+The issues tab can be used to request new notes or to identify errors in the notes.
 
-To contribute, branch or commit to main i'll accept literally any pull request
-
-## Todo (Week 5)
+## To-do (Week 7)
 ### Notes to update
-| Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀	| Completed		|
-|-----------	|-----------------------------------------			| -----------	|
-| English 		| 													| ✅				|
-| Maths			| 													|				|
-| Physics		| Centripetal force slides <br> Prac 5.1-.3 		| ✅				|
-| Chemistry		| Equilibrium constant slides								| ❌				|
-| Geography		| Add images<br>Add syllabus						|				|
+| Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| New Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀				 |
+|-----------		|-----------------------------------------					|
+| English 			| 															|
+| Maths				| 															|
+| Physics			| 															|
+| Chemistry			| 															|
+| Geography			| A few stats on aquaculture								|
 
 ### Homework
 - English
-	- [ ] Finish padlet question
- - [ ] finish notes and annotations
 - Maths
-	- [ ] EX8C Do for monday 18/11
-	- [ ] EX8D
-	- [ ] EX8E
-	- [X] EX1E
+	- [ ] Ext. 1 EX8E
+	- [ ] Ext. 1 EX8F
+	- [ ] Ext. 1 EX2A
+	- [ ] Ext. 1 EX2B
+	- [ ] Past HSC induction questions
+	- [ ] Past HSC complex questions
 - Physics
-	- [X] Submit depth study progress check
- - [ ] centripetal motion worksheets
 	- [ ] depth study
 - Chemistry
-	- [ ] Atomi
+	- [ ] wk. 5 atomi
+	- [ ] wk. 6 atomi
 - Geography
-	- [ ] Finish explain question due thursday

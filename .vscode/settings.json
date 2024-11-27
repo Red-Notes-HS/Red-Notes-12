@@ -57,5 +57,13 @@
 	"search.exclude": {
 		"**/*.synctex.gz": true,
 		"**/spellright.dict": true
-	}
+	},
+	"spellright.language": [
+		"en"
+	],
+	"spellright.documentTypes": [
+		"markdown",
+		"plaintext",
+		"latex"
+	]
 }

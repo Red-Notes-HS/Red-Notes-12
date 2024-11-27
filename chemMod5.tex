@@ -209,7 +209,7 @@
 		[Z] &= \frac{0.3}{0.75} = 0.4
 	\end{align*}
 	
-\section{Effect of Temperature on $K_{eq}$} \label{8/11/2024}
+\section{Effect of Temperature on the Equilibrium Constant} \label{8/11/2024}
 	Although other factors may affect equilibrium, $K_{eq}$ is only affected by temperature.
 	Changing concentration, pressure, or volume will change the concentrations and therefore adjust the reaction point, however the reaction will still equalise to achieve the same $K_{eq}$
 
@@ -238,26 +238,174 @@
 			&=K_{eq}
 		\end{align*}
 
-\section{Use of $K_{eq}$ for the Dissociation of Ionic Solutions} \label{12/11/2024}
-	Different ionic compounds have different solubilities
+\section{Applications of the Equilibrium Constant} \label{12/11/2024}
+	\subsection{Use of the Equilibrium Constant for the Dissociation of Ionic Solutions}
+		Different ionic compounds have different solubilities
 
-	Example reaction
+		Example reaction
 
-	$$\ce{AgNO3 \aq{} + NaCl \aq{} -> AgCl \sld{} + NaNO3 \aq}$$
+		$$\ce{AgNO3 \aq{} + NaCl \aq{} -> AgCl \sld{} + NaNO3 \aq}$$
 
-	Complete ionic equation: $\ce{Ag+ + NO3-}$
-	
-	\section{Beer Lambert Law} \label{14/11/2024}
+		Complete ionic equation: $\ce{Ag+ + NO3- +Na+ + Cl- -> AgCl \sld{} + NO3- + Na+}$
+
+		Net ionic equation: $\ce{Ag+ \aq{} + Cl- \aq{} -> AgCl \sld{}}$
+
+		Although a precipitate is formed, the reaction rests at a dynamic equilibrium where the rate at which the precipitate is formed is equal to the rate at which the ions are formed.
+
+		$$\ce{AgCl \sld{} <=> Ag+ \aq{} Cl- \aq{}}$$
+
+		\begin{itemize}
+			\item By general practice, the solid precipitate is written on the left and the ions on the right.
+			\item $K_{sp} = [\ce{Ag+}][\ce{Cl-}]$
+			\item Since the solid is not included in the equilibrium constant, it is referred to as the \textbf{solubility product} ($K_{sp}$)
+			\item If the system is not at equilibrium, it is referred to as the \textbf{ionic product}
+			\item If $\text{ionic product} = K_{sp}$, then the system is at equilibrium.
+			\item If $\text{ionic product} < K_{sp}$, the forward reaction would be favoured and the solid would dissolve for the system to reach equilibrium.
+			\item If $\text{ionic product} > K_{sp}$, the reverse reaction would be favoured and more precipitate would form for the system to reach equilibrium.
+		\end{itemize}
+
+	\subsection{Use of the Equilibrium Constant for the Dissociation of Acids and Bases}
+		\subsubsection{Acids}
+			Strong acids dissociate completely in solution. The reaction goes to completion and is not an equilibrium system
+
+			\subitem Eg: $\ce{HCl \lqd{} -> H+ \aq{} + Cl- \aq{}}$
+
+			Weak acids do not dissociate completely, instead forming an equilibrium system
+
+			\subitem Eg: $\ce{CH3COOH \aq{} <=> H+ \aq{} + CH3COO- \aq{}}$
+
+			The acid dissociation constant is expressed as $K_a = \frac{[\ce{CH3COO-}][\ce{H+}]}{[\ce{CH3COOH}]}$
+
+		\subsubsection{Bases}
+			Strong bases dissociate completely in solution.
+
+			\subitem Eg. $\ce{NaOH \sld{} -> Na+ \aq{} + OH- \aq{}}$
+
+			Weak bases do not dissociate completely, only some of the molecules react with water to form ions, they form an equilibrium system
+
+			\subitem Eg. $\ce{NH3 \aq{} + H2O \lqd{} <=> NH4+ \aq{} + OH- \aq{}}$
+			
+			The base dissociation constant is expressed as $K_b = \frac{[\ce{NH4+}][\ce{OH-}]}{[\ce{NH3}]}$
+
+			\begin{figure}[H]
+				\centering
+				\includegraphics[width=5cm]{dissociation of bases.png}
+			\end{figure}
+
+		\begin{multicols}{2}
+			\textbf{Weak Acid}
+
+			General equation:
+			$$\ce{HA \aq{} + H2O \lqd{} <=> H3O+ \aq{} + A- \aq{}}$$
+
+			General expression for equilibrium constant:
+
+			$$K_a = \frac{[\ce{H3O+}][\ce{A-}]}{\ce{HA}}$$
+			
+			\columnbreak
+
+			\textbf{Weak Base}
+
+			General equation:
+			$$\ce{B \aq{} + H2O \lqd{} <=> BH+ \aq{} + OH- \aq{}}$$
+
+			General expression for equilibrium constant:
+
+			$$K_b = \frac{\ce{[BH+][OH-]}}{\ce{[B]}}$$
+		\end{multicols}
+
+	\subsection{Use of the Equilibrium Constant for Gaseous Systems}
+		In a gaseous system (where all reactants are gases), the partial pressure of each species is related to its concentration ($c = \frac{n}{V}$)
+
+		Pressure is due to the collisions between the gases and the walls of the container, therefore all particles within the system contribute to the pressure.
+
+		The \textbf{partial pressure} is the proportion of the pressure due to collisions for a particular gas species
+
+		For the general equation:
+
+		$$\ce{aA \gas{} + bB \gas{} <=> cC \gas{} + dD \gas{}}$$, where $a$, $b$, $c$ and $d$ are the number of moles
+
+		$$\text{Mole fraction of gas A} = \frac{\text{Number of moles of gas }}{\text{Total number of moles of gas present}}$$
+
+		$$\text{Partial pressure of gas A} = \text{Mole fraction of gas A} \times \text{Total pressure of the system}$$
+
+		Expression of equilibrium constant in terms of pressure:
+		$$K_p = \frac{P^a_A \times P^b_B}{P^c_C \times P^d_D}$$
+
+\section{Beer Lambert Law} \label{14/11/2024}
 	\begin{align*}
-		\text{Absorbance} &= \text{Molar absorbility} \times \text{Path length} \times \text{Concentration} \\
-		A &= \epsilon lc
+		\text{Absorbance (for a given wavelength)} &= \text{Molar absorbility} \times \text{Path length} \times \text{Concentration} \\
+		A &= \varepsilon lc
 	\end{align*}
 	\begin{itemize}
 		\item Absorbance has a direct relationship to concentration
 		\item Greater concentration, greater absorbance
 	\end{itemize}
+
+	Absorbance can be measured using a spectrophotometer (for all wavelengths) or a colourimeter (for the visible spectrum). Using the formula, the absorbance coefficient ($\varepsilon$) for a given material can be calculated. The coefficient determines how far light can penetrate a material before it is absorbed, depending on the material and the wavelength being absorbed. Measured in $\unit{\L\per\mole\per\cm}$
+
+	A filter is applied to the light and must be the complement to the colour of the solution.
+
+	Eg: For reaction $\ce{Fe3+ \aq{} + SCN- \aq{} <=> FeSCN2+ \aq{}}$
+	$\ce{FeSCN}$ is red, $\therefore$ a green filter is needed
+
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=10cm]{absorption coefficient.png}
+	\end{figure}
+
+	\begingroup
+		\Large
+		\begin{align*}
+			A = \log_{10}{\frac{I_o}{I}} = \varepsilon lc
+		\end{align*}
+	\endgroup
+
+	\newpage
+
+	\subsection{Worked Example}
+		A solution thickness of 1 cm transmits 30\% incident light.
+		\begin{enumerate}
+			\item \textbf{Calculate the concentration of the solution given the molar absorptivity of the solution being 4000 L mol$^{-1}$ cm$^{-1}$}
+			
+			\begin{align*}
+				A = \log_{10}{\frac{100}{30}} = 0.523 \\
+				\therefore C = \frac{A}{\varepsilon l} &= \frac{0.523}{4000 \times 1} \\
+				&= \SI{1.31e-4}{\mole\per\litre}
+			\end{align*}
+
+			\item \textbf{Calculate the molar absorptivity of a $\SI{1e-4}{\mol\per\litre}$ solution which has an absorbance of 0.20, when the path length is 2.5 cm.}
+			
+			\begin{align*}
+				A &= \varepsilon l c \\
+				0.2 &= 1 \times 10^{-4} \times 2.5 \times \varepsilon \\
+				\varepsilon &= \frac{0.2}{1 \times 10^{-4} \times 2.5} \\
+				&= {800} \unit{\litre\per\mole\per\cm}
+			\end{align*}
+
+			\item \textbf{Which instrument is used in the verification of Lambert's Beer's law?}
+			\subitem Colourimeter
+
+			\item \textbf{Find out the molar absorptivity of a $\SI{1e-4}{\mole\per\litre}$ solution with an absorbance of 0.30, when the path length is 1.5 cm. (3 marks)}
+			
+			\begin{align*}
+				A &= \varepsilon lc \\
+				0.3 &= \varepsilon \times 1.5 \times 1 \times 10^{-4} \\
+				\varepsilon &= 2000 \unit{\litre\per\mole\per\cm}
+			\end{align*}
+		\end{enumerate}
+
+	\subsection{Colourimeters}
+		In order to determine concentration of a solution from its absorbance, a calibration curve using known concentrations and absorbances must be used to interpolate or extrapolate datapoints corresponding to a desired value.
+
+		\begin{figure}[H]
+			\centering
+			\includegraphics[height=7cm]{calibration curve.png}
+		\end{figure}
+
+		Beer Lambert's Law collapses at high and low concentrations, where $c<20\%$, $c>80\%$
 	
-\section{Practical Investigation 3.2}
+	\section{Practical Investigation 3.2}
 	Aim: To use colourimetry to determine the equilibrium constant for the reaction of iron(III) ions with thiocyanate ions to form the iron(III) thiocyanate ion
 
 	\subsection{Materials}
@@ -310,13 +458,50 @@
 	\end{enumerate}
 
 \section{Solution Equilibria - Dissolution of Ionic Compounds} \label{19/11/2024}
+	\subsection{Solubility Revision}
+		\begin{itemize}
+			\item Ionic compounds consist of a positive cation and negative anion
+			\item Due to the polar nature of water molecules, they can arrange themselves around the ions and overcome the ionic bonding, dissolving the substance into an aqueous solution
+			\item When surrounded by water, the ion becomes a \textbf{hydrated ion}
+			\item For an ionic compound to dissolve, the energy required has to be less than or similar to the energy released when hydrated
+		\end{itemize}
+
+		$$\text{Energy to break lattice} \approx \text{Energy released when ions hydrated}$$
+
+		Solubility can be measured in \unit{\gram\per\litre}, g/100 g, or g/100 mL
+
 	\subsection{Factors influencing solubility}
 		\begin{itemize}
 			\item Activation energy required to break lattice
-				\begin{itemize}
-					\item Strength of ionic bonding
-					\item Size of ions
-					\item Charge of ions
-				\end{itemize}
-			\item As temperature increases, generally solubility increases
+				\item Strength of ionic bonding
+				\item Size of ions
+				\item Charge of ions
 		\end{itemize}
+
+	\subsection{Solubility}
+		\begin{itemize}
+			\item The solubility of a solute is the maximum mass in grams that can dissolve in 100 g of the solvent at a given temperature (\unit{\gram\per\litre} can also be used)
+			\item A solution is saturated when no more solute will dissolve at a given temperature
+			\item Heat will increase the solubility of a solute
+			\item Solubility curves show how much of a solute dissolves at a given temperature
+		\end{itemize}
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=10cm]{solubility curve.png}
+		\end{figure}
+
+	\subsection{Water of Crystallisation}
+		Water of crystallisation occurs when water molecules are attracted to the ions of a salt
+
+		Eg. $\ce{CuSO4 . 5H2O}$ is a substance with five water molecules of crystallisation per unit of copper (II) sulphate
+
+		Water or other molecules that form dipole bonds to a metal atom are referred to as ligands
+
+	\subsection{} TODO: water of crystallisation
+
+	\subsection{Dissolution of Ionic Compounds}
+
+\section{Measuring Solubility} \label{20/11/2024} TODO: measuring solubility
+	\subsection{Solubility Rules}
+
+\section{Solubility Product}
