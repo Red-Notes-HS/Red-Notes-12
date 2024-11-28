@@ -13,10 +13,10 @@ The issues tab can be used to request new notes or to identify errors in the not
 ## Recent Updates (Week 7)
 | Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| New Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀				 |
 |-----------		|-----------------------------------------					|
-| English 			| 															|
+| English 			| Canberra Morning											|
 | Maths				| 															|
 | Physics			| 															|
-| Chemistry			| Solutions Equilibria															|
+| Chemistry			| Solutions equilibria<br>Practical 4.2						|
 | Geography			| A few stats on aquaculture								|
 
 ### Homework
@@ -33,5 +33,6 @@ The issues tab can be used to request new notes or to identify errors in the not
 - Chemistry
 	- [ ] wk. 5 atomi
 	- [ ] wk. 6 atomi
-        - [ ] wk. 7 atomi (just give up atp)
+	- [ ] wk. 7 atomi (just give up)
 - Geography
+	- [ ]
