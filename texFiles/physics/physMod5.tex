@@ -33,7 +33,7 @@
 			\item Release ball at an interval
 			\item Record time taken to travel 50cm flat distance and distance from table after drop
 			\item Repeat steps 3-4 for each interval 3 times.
-			\item Calculate the initial velocity of the drop using v = delta s/delta t
+			\item Calculate the initial velocity of the drop using $v = \frac{\Delta s}{\delta t}$
 			\item Calculate the time of flight using height of table ($height=\frac{1}{2}\times (-9.8)t^2$), hence estimate the horizontal range of the ball ($s_{x} = ut$)
 			\item Graph estimated range and actual range over velocity and compare.
 		\end{enumerate}
@@ -58,13 +58,13 @@
 			Height above the ground: 0.90m
 			\begin{enumerate}
 				\item \textbf{Calculate the time it takes for the ball to fall from the table to the floor.}
-					\begin{align}
+					\begin{align*}
 						s &= ut + \frac{1}{2}at^2 \\
 						0.9 &= (0)t + \frac{1}{2}(-9.8)t^2 \\
 						t^2 &= \frac{2 \times 0.9}{9.8} \\
 						t &= \sqrt{\frac{2 \times 0.9}{9.8}} \\
 						&= 0.43 s
-					\end{align} 
+					\end{align*} 
 				\item \textbf{Calculate the distance the ball will travel in the horizontal direction, ie. the range}
 					\begin{align*}
 						s &= ut + \frac{1}{2}at^2 \\
@@ -112,37 +112,7 @@
 		\end{enumerate}
 
 	\subsection{Results}
-		\begin{table}[htbp] \label{5.2 Table of Results}
-			\centering
-			\begin{tabular}{l|l|l}
-				Angle (\textdegree) & Time (s)	& Horizontal Range (m)  \\ \hline
-				0 					& 0.46		& 1.5 		\\
-				0 					& 0.41		& 1.65		\\ \hline
-				10					& 0.46		& 1.94		\\
-				10					& 0.61		& 2.00		\\
-				10					& 0.59		& 1.85		\\ \hline
-				20					& 0.61		& 2.03		\\
-				20					& 0.65		& 1.98		\\
-				20					& 0.58		& 2.003		\\ \hline
-				30					& 0.83		& 2.065		\\
-				30					& 0.71		& 2.122		\\
-				30					& 0.83		& 2.185		\\ \hline
-				40					& 0.79		& 2.22		\\
-				40					& 0.70		& 2.16		\\
-				40					& 0.78		& 2.14		\\ \hline
-				50					& 0.85		& 1.99		\\
-				50					& 0.83		& 1.845		\\
-				50					& 0.93		& 2.031		\\ \hline
-				60					& 0.96		& 1.708		\\
-				60					& 0.85		& 1.76		\\
-				60					& 0.88		& 1.59		\\ \hline
-				70					& 0.85		& 1.14		\\
-				70					& 0.83		& 1.21		\\
-				70					& 0.86		& 1.31		\\ \bottomrule
-			\end{tabular}
-		\end{table}
-
-		\begin{table}[htbp]
+		\begin{table}[H]
 			\centering
 			  \begin{tabular}{lllllllll}
 			  Angle \textdegree & \multicolumn{4}{l}{Time (s)}      & \multicolumn{3}{l}{Horizontal Range (m)} &  \\
@@ -175,7 +145,7 @@
 			\item \textbf{Are there launch angles that yield the same range? What are they and why is that the case?}
 				\subitem There are some launch angles that yield the same range. This is due to the parabolic shape of the range versus angle graph, meaning that there are two points on either side of the ideal (40\textdegree) that provide the same range.
 		\end{enumerate}
-
+\newpage
 \section{Circular Motion} \label{4/11/2024}
 	\subsection{Uniform Circular Motion}
 	Occurs when objects travel in a circle at a constant speed, taking the same length of time to make each revolution
@@ -377,3 +347,12 @@
 	\end{enumerate}
 
 \section{Angular Velocity} \label{18/11/2024} TODO: physics angular velocity
+
+\begin{align*}
+	K + U &= 0 \\
+	\frac{1}{2}mv^2 + (-\frac{GMm}{r}) &= 0 \\
+	v^2 &= \frac{2GM}{r} \\
+	v &= \sqrt{\frac{2GM}{r}} \\
+	\text{since } v_{orbital} &= \sqrt{\frac{GM}{r}} \\
+	v_{escape} &= \sqrt{2}\;v_{orbital}
+\end{align*}
