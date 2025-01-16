@@ -16,7 +16,7 @@
 		"**/*._wordcount_selection.tex": true
 	},
 	"editor.useTabStops": false,
-	"latex-workshop.latex.outDir": "./pdf",
+	"latex-workshop.latex.outDir": "C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\pdf",
 	"latex-workshop.latex.recipes": [
 		{
 			"name": "latexmk",
@@ -34,8 +34,8 @@
 				"-interaction=nonstopmode",
 				"-file-line-error",
 				"-pdf",
-				"-aux-directory=auxilary",
-				"-output-directory=pdf",
+				"-aux-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\auxilary",
+				"-output-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\pdf",
 				"%DOC%"
 			]
 		},
@@ -46,8 +46,8 @@
 				"-synctex=1",
 				"-interaction=nonstopmode",
 				"-file-line-error",
-				"-aux-directory=auxilary",
-				"-output-directory=pdf",
+				"-aux-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\auxilary",
+				"-output-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\pdf",
 				"%DOC%"
 			]
 		}

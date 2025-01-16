@@ -13,26 +13,20 @@ The issues tab can be used to request new notes or to identify errors in the not
 ## Recent Updates (Week 7)
 | Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| New Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀				 |
 |-----------		|-----------------------------------------					|
-| English 			| Canberra Morning											|
+| English 			| 															|
 | Maths				| 															|
 | Physics			| 															|
-| Chemistry			| Solutions equilibria<br>Practical 4.2						|
-| Geography			| A few stats on aquaculture								|
+| Chemistry			| 															|
+| Geography			| 															|
 
 ### Homework
 - English
+	- [ ] Upload study notes to Google Classroom, due Monday
 - Maths
-	- [ ] Ext. 1 EX8E
-	- [ ] Ext. 1 EX8F
-	- [ ] Ext. 1 EX2A
-	- [ ] Ext. 1 EX2B
-	- [ ] Past HSC induction questions
-	- [ ] Past HSC complex questions
 - Physics
 	- [ ] depth study
 - Chemistry
-	- [ ] wk. 5 atomi
-	- [ ] wk. 6 atomi
-	- [ ] wk. 7 atomi (just give up)
+	- [	] Do atomi wk. 5 6 7 8
 - Geography
 	- [ ]
+
