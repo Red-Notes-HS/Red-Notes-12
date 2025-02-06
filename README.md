@@ -26,7 +26,6 @@ The issues tab can be used to request new notes or to identify errors in the not
 - Physics
 	- [ ] depth study
 - Chemistry
-	- [	] Do atomi wk. 5 6 7 8
+	- [	] Do Atomi wk. 5 6 7 8
 - Geography
 	- [ ]
-
