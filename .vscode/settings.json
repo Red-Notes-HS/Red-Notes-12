@@ -45,6 +45,7 @@
 			]
 		}
 	],
+	"latex-workshop.message.badbox.show": "none",
 	"explorer.excludeGitIgnore": false,
 	"search.useGlobalIgnoreFiles": true,
 	"search.exclude": {
