@@ -20,12 +20,7 @@ The issues tab can be used to request new notes or to identify errors in the not
 | Geography			| 															|
 
 ### Homework
-- English
-	- [ ] Upload study notes to Google Classroom, due Monday
-- Maths
-- Physics
-	- [ ] depth study
-- Chemistry
-	- [	] Do Atomi wk. 5 6 7 8
-- Geography
-	- [ ]
+ENG context activity
+PHYS worksheet(s)
+PHYS write notes notes
+MAT worksheet
