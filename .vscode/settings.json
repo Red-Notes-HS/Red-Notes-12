@@ -1,22 +1,15 @@
 {
 	"files.exclude": {
 		"**/.DS_Store": true,
-		"**/CVS": true,
-		"**/Thumbs.db": true,
-		"**/*.aux": true,
-		"**/*.fdb_latexmk": true,
-		"**/*.fls": true,
+		"**/*._wordcount_selection.tex": true,
 		"**/*.git": true,
 		"**/*.hg": true,
-		"**/*.log": true,
-		"**/*.svn": true,
 		"**/*.synctex.gz": true,
-		"**/*.toc": true,
-		"**/*.out": true,
-		"**/*._wordcount_selection.tex": true
+		"**/CVS": true,
+		"**/Thumbs.db": true
 	},
 	"editor.useTabStops": false,
-	"latex-workshop.latex.outDir": "C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\pdf",
+	"latex-workshop.latex.outDir": "C:\\Users\\lucas\\Desktop\\School\\Red-Notes-12\\pdf",
 	"latex-workshop.latex.recipes": [
 		{
 			"name": "latexmk",
@@ -34,8 +27,8 @@
 				"-interaction=nonstopmode",
 				"-file-line-error",
 				"-pdf",
-				"-aux-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\auxilary",
-				"-output-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\pdf",
+				"-aux-directory=C:\\Users\\lucas\\Desktop\\School\\Red-Notes-12\\auxilary",
+				"-output-directory=C:\\Users\\lucas\\Desktop\\School\\Red-Notes-12\\pdf",
 				"%DOC%"
 			]
 		},
@@ -46,8 +39,8 @@
 				"-synctex=1",
 				"-interaction=nonstopmode",
 				"-file-line-error",
-				"-aux-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\auxilary",
-				"-output-directory=C:\\Users\\lucas_e\\OneDrive - NSW Department of Education\\School\\Year 12\\Notes\\pdf",
+				"-aux-directory=C:\\Users\\lucas\\Desktop\\School\\Red-Notes-12\\auxilary",
+				"-output-directory=C:\\Users\\lucas\\Desktop\\School\\Red-Notes-12\\pdf",
 				"%DOC%"
 			]
 		}
