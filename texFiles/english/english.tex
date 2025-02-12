@@ -1,7 +1,7 @@
 \documentclass{report}
 
 \usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
-\usepackage{amsmath, amsthm, booktabs, chemfig, graphicx, float, pgfplots}
+\usepackage{amsmath, amsthm, booktabs, chemfig, graphicx, float, pgfplots, setspace}
 \usepackage[default]{sourcesanspro}
 \usepackage[T1]{fontenc}
 \usepackage[hidelinks]{hyperref}
@@ -18,12 +18,12 @@
 \author{L. Cheung}
 
 \begin{document}
+	\setstretch{1.25}
 
-\maketitle
-\tableofcontents
+	\maketitle
+	\tableofcontents
 
-\include{./engCommonMod}
-\include{./engModA}
-
+	\include{engCommonMod}
+	\include{engModA}
 
 \end{document}
