@@ -7,7 +7,7 @@ A compilation of notes for:
 - Chemistry
 - Geography
 
-To contribute, branch or commit to main I'll accept literally any pull request
+To contribute, branch or commit to main I'll accept literally any pull request.
 The issues tab can be used to request new notes or to identify errors in the notes.
 
 ## Recent Updates (Week 7)
@@ -21,6 +21,13 @@ The issues tab can be used to request new notes or to identify errors in the not
 
 ### Homework
 ENG context activity
+
 PHYS worksheet(s)
+
 PHYS write notes notes
+
 MAT worksheet
+
+PHYS atomi
+
+CHEM something or other
