@@ -28,6 +28,6 @@ PHYS write notes notes
 
 MAT worksheet
 
-PHYS atomi
+CHEM write notes
 
-CHEM something or other
+CHEM 5.2 practical writeup

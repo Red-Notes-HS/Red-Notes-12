@@ -1,14 +1,19 @@
 \documentclass{report}
 
 \usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
-\usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, upgreek, siunitx, multirow, multicol}
+\usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, upgreek, siunitx, multirow, multicol, setspace}
+\usepackage[default]{sourcesanspro}
+\usepackage[T1]{fontenc}
 \usepackage[hidelinks]{hyperref}
 
+\usepackage{gensymb}
+\newcommand{\perthousand}{‰}
+\newcommand{\micro}{µ}
 \usepackage[chemgreek=mhchem]{chemmacros}
 \chemsetup[phases]{pos=sub}
 \chemsetup[reactants]{concentration-unit=\moLar}
 \chemsetup{
-  formula = mhchem, % or mhchem
+	formula = mhchem, % or mhchem
 }
 
 \DeclareSIUnit{\solub}{\unit[per-mode=symbol]{\gram\per\qty{100}{\gram}\,\ce{H2O}}}
@@ -24,13 +29,11 @@
 \author{L. Cheung}
 
 \begin{document}
-\maketitle
-\tableofcontents
-\DeclareSIUnit{\molar}{\mole\per\liter}
+	\setstretch{1.25}
 
-
-\include{chemMod5}
-\include{chemMod6}
-
-
+	\maketitle
+	\tableofcontents
+	\DeclareSIUnit{\molar}{\mole\per\liter}
+	\include{chemMod5}
+	\include{chemMod6}
 \end{document}

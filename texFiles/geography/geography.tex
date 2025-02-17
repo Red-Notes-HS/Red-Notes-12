@@ -1,14 +1,15 @@
 \documentclass{report}
 
 \usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
-\usepackage{amsmath, amsthm, booktabs, chemfig, graphicx, float, pgfplots}
+\usepackage{amsmath, amsthm, booktabs, chemfig, graphicx, float, pgfplots, siunitx}
 \usepackage[hidelinks]{hyperref}
 \usepackage{upgreek}
 \usepackage[chemgreek=upgreek]{chemmacros}
+\usepackage[default]{sourcesanspro}
 \chemsetup[phases]{pos=sub}
 \chemsetup[reactants]{concentration-unit=\moLar}
 \chemsetup{
-  formula = mhchem, % or mhchem
+	formula = mhchem, % or mhchem
 }
 
 \setlength{\parindent}{0pt}
@@ -22,8 +23,9 @@
 \author{L. Cheung}
 
 \begin{document}
-\maketitle
-\tableofcontents
+	\maketitle
+	\tableofcontents
 
-\include{geoGlobalSustainability}
+	\include{geoGlobalSustainability}
+	\include{geoUrbanAndRuralPlaces}
 \end{document}
