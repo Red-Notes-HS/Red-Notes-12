@@ -22,11 +22,9 @@ The issues tab can be used to request new notes or to identify errors in the not
 ### Homework
 ENG context activity
 
-PHYS worksheet(s)
+ENG start and finish essay by Friday
 
 PHYS write notes notes
-
-MAT worksheet
 
 CHEM write notes
 
