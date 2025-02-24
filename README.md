@@ -30,6 +30,4 @@ PHYS prac 6.2
 
 
 
-
-Is water aqueous?
-Jeffrey Wang: yes.
+There is no water in Antarctica - Jeffrey Wang
