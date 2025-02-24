@@ -20,12 +20,16 @@ The issues tab can be used to request new notes or to identify errors in the not
 | Geography			| 															|
 
 ### Homework
-ENG context activity
 
-ENG start and finish essay by Friday
+ENG Montaigne readings
 
-PHYS write notes notes
+MAT chapter 4 (very optional)
 
-CHEM write notes
+PHYS prac 6.2
 
-CHEM 5.2 practical writeup
+
+
+
+
+Is water aqueous?
+Jeffrey Wang: yes.
