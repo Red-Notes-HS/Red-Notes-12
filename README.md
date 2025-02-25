@@ -28,6 +28,21 @@ MAT chapter 4 (very optional)
 PHYS prac 6.2
 
 
+PHYS due end of wk 5
 
-
-There is no water in Antarctica - Jeffrey Wang
+104
+105
+106
+107
+108
+111
+112
+113
+114
+117
+121
+122
+123
+124
+125
+126
