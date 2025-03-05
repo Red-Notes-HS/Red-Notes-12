@@ -10,28 +10,16 @@ A compilation of notes for:
 To contribute, branch or commit to main I'll accept literally any pull request.
 The issues tab can be used to request new notes or to identify errors in the notes.
 
-## Recent Updates (Week 7)
-| Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| New Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀				 |
-|-----------		|-----------------------------------------					|
-| English 			| 															|
-| Maths				| 															|
-| Physics			| 															|
-| Chemistry			| 															|
-| Geography			| 															|
 
 ### Homework
 
-ENG Montaigne readings
+ENG Act 3 Scene 3 Paragraph
 
-MAT chapter 4 (very optional)
-
-PHYS prac 6.2
-
+MAT 4C 4D 4E 4F 4G 6B 6C 6F 6G 6H 7B 7C
+prac 6.2
 
 PHYS due end of wk 5
 
-104
-105
 106
 107
 108
@@ -43,6 +31,5 @@ PHYS due end of wk 5
 121
 122
 123
-124
 125
 126
