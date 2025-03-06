@@ -15,8 +15,9 @@ The issues tab can be used to request new notes or to identify errors in the not
 
 ENG Act 3 Scene 3 Paragraph
 
-MAT 4C 4D 4E 4F 4G 6B 6C 6F 6G 6H 7B 7C
-prac 6.2
+GEO Table of ABS statistics
+
+MAT 4C 4D 4E 4F 4G 4H 6B 6C 6F 6G 6H 7B 7C 
 
 PHYS due end of wk 5
 
@@ -33,3 +34,9 @@ PHYS due end of wk 5
 123
 125
 126
+
+128 Q5
+129 Q15
+134 Q28
+135
+136
