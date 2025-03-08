@@ -15,17 +15,12 @@ The issues tab can be used to request new notes or to identify errors in the not
 
 ENG Act 3 Scene 3 Paragraph
 
-GEO Table of ABS statistics
+ENG stop word wrap
 
-MAT 4C 4D 4E 4F 4G 4H 6B 6C 6F 6G 6H 7B 7C 
+MAT 4F 4G 4H 6B 6C 6F 6G 6H 7B 7C 
 
 PHYS due end of wk 5
 
-106
-107
-108
-111
-112
 113
 114
 117
