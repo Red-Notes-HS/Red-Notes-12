@@ -13,11 +13,13 @@ The issues tab can be used to request new notes or to identify errors in the not
 
 ### Homework
 
-ENG Act 3 Scene 3 Paragraph
+MAT 4I 4J 7B 7C
 
-ENG stop word wrap
+For Jeffrey Wang (he's cooked): 4A-J, 6B 6C 6F 6G 6H 7B 7C
 
-MAT 4F 4G 4H 6B 6C 6F 6G 6H 7B 7C 
+GEO paragraphs
+
+GEO understanding mossman
 
 PHYS due end of wk 5
 
