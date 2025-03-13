@@ -267,16 +267,24 @@
 		Faraday's law states that:
 
 		\begin{center}
-			\large The induced TODO:
+			\Large The induced emf in a circuit is equal in magnitude to the rate at which the magnetic flux through the circuit is changing with time
 		\end{center}
+
+		\begin{align*}
+			\epsilon = -n \frac{\Delta \phi}{\Delta t}
+		\end{align*}
+
+\newpage
 
 \section{Information Retrieval} \label{10/03/2025}
 
 	\begin{enumerate}
 		\item \textbf{What is magnetic flux?}
+
 			Flux is the amount of field lines passing through a surface
 
 		\item \textbf{What is required for electromagnetic induction?}
+		
 			\begin{itemize}
 				\item Change in flux
 				\item Conductor
@@ -285,6 +293,7 @@
 			\end{itemize}
 
 		\item \textbf{How is relative motion between magnetic field and conductor achieved?}
+		
 			\begin{itemize}
 				\item Physically move magnet and coil away from each other
 				\item Change current in the primary coil
@@ -293,12 +302,15 @@
 			\end{itemize}
 
 		\item \textbf{How can a change in magnetic flux be created?}
+		
 			Same as above
 
 		\item \textbf{State Lenz's Law}
+		
 			Magnetic field produced by the induced current opposes change in flux.
 
 		\item \textbf{Describe the steps to determine the direction of an induced current.}
+		
 			\begin{enumerate}
 				\item Find the change in flux
 				\item Determine the direction of the magnetic field that needs to be produced to oppose the change in flux
@@ -307,6 +319,7 @@
 			\end{enumerate}
 
 		\item \textbf{State the motor effect}
+		
 			A current carrying conductor in an external magnetic field experiences a force
 	\end{enumerate}
 
@@ -324,7 +337,7 @@
 	\end{itemize}
 
 	\begin{align*}
-		\epsilon \text{ in coil} = \epsilon_{supplied} - \epsilon_{back}
+		\epsilon_{in coil} = \epsilon_{supplied} - \epsilon_{back}
 	\end{align*}
 
 	Effect of back emf:
@@ -335,4 +348,58 @@
 		\item Hence, the current is reduced
 		\item Torque due to supply current is reduced
 		\item Torque from induced current (due to back emf) increases until the torques are balanced, $F_{net} = 0$
+	\end{itemize}
+
+	When the motor is first switched on, before the rotation starts:
+	\begin{itemize}
+		\item There is no back emf (no relative motion between coil and magnetic field)
+		\item There is a large current flowing through the coil
+		\item Large current produces large torque, spins fast
+		\item As motor spins faster, back emf increases until it is equal to supply emf
+		\item When this occurs, there is no voltage across the coil and therefore no current flowing through the coil
+		\item No current, therefore no net force, therefore constant rate (Newton's first law)
+	\end{itemize}
+
+\section{Example HSC Question} \label{11/03/2025}
+
+	\textbf{Question 21 (3 marks)}
+
+	A fan that ventilates an underground mine is run by a very large DC motor. This motor is connected in series with a variable resistor to protect the windings in the coil.
+
+	When the motor is starting up, the variable resistor is adjusted to have a large resistance. The resistance is then lowered slowly as the motor increases to its operating speed.
+
+	Explain why no resistance is required when the motor is running at high speed, but a substantial resistance is needed when the motor is starting up.
+
+
+
+	\textbf{Answer:} A variable resistor is required when the motor is starting up because the supplied current will be high and high resistance limits the current. This prevents motor burnout.
+
+	When the motor is at operational speed, the coil is rotating relative to a magnetic field and induced emf (back emf) is produced, reducing the current.
+
+\newpage
+
+\section{Effects of Back EMF - motor burn out}
+
+	When a heavier mechanical load is placed on the motor,
+
+	\begin{itemize}
+		\item Rotational speed decreases
+		\item Back emf decreases
+		\item Current increases
+		\item Torque and rotational speed increase until new equilibrium is reached
+	\end{itemize}
+
+	When armature is prevented from moving,
+	\begin{itemize}
+		\item No back emf due to no $\frac{\Delta \phi}{\Delta t}$
+		\item Large current
+		\item Resistance $\rightarrow$ heat $\rightarrow$ motor burn out
+	\end{itemize}
+
+\section{Eddy Currents} \label{12/03/2025}
+
+	Induced currents do not occur only in coils and wires. They can also occur:
+
+	\begin{itemize}
+		\item when there is a magnetic field acting on part of a metal object and there is relative motion between them
 	\end{itemize}

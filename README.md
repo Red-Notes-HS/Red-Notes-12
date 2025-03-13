@@ -13,13 +13,21 @@ The issues tab can be used to request new notes or to identify errors in the not
 
 ### Homework
 
-MAT 4I 4J 7B 7C
+ENG write modA introduction
 
-For Jeffrey Wang (he's cooked): 4A-J, 6B 6C 6F 6G 6H 7B 7C
+ENG chinese-box structure of hagseed paragraph
+
+ENG read handout notes on textual form (on gc)
+
+MXX 3C(2-5)
+
+For Jeffrey Wang (he's not that cooked anymore): 4C 4J 6H 7B 7C 3B
 
 GEO paragraphs
 
 GEO understanding mossman
+
+PHYS magnetic flux notes
 
 PHYS due end of wk 5
 
