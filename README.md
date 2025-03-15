@@ -19,29 +19,12 @@ ENG chinese-box structure of hagseed paragraph
 
 ENG read handout notes on textual form (on gc)
 
-MXX 3C(2-5)
-
-For Jeffrey Wang (he's not that cooked anymore): 4C 4J 6H 7B 7C 3B
+MXX 3C(2-11)
 
 GEO paragraphs
 
 GEO understanding mossman
 
+GEO mossman poster
+
 PHYS magnetic flux notes
-
-PHYS due end of wk 5
-
-113
-114
-117
-121
-122
-123
-125
-126
-
-128 Q5
-129 Q15
-134 Q28
-135
-136
