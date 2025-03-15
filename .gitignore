@@ -1,10 +1,24 @@
 *.aux
 *.fls
+<<<<<<< HEAD
 *.log
 *.toc
 *.out
+=======
+*.fls
+*.log
+*.toc
+*.out
+*.toc
+*.out
+>>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074
 *.fdb_latexmk
 *.synctex.gz
 *._wordcount_selection.tex
 *spellright.dict
+<<<<<<< HEAD
 **/*mathsWorkedSolutions
+=======
+**/*mathsWorkedSolutions
+*Cambridge Year 12 - Ext 1.pdf
+>>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074

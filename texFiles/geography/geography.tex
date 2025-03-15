@@ -1,6 +1,7 @@
 \documentclass{report}
 
 \usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
+<<<<<<< HEAD
 \usepackage{amsmath, amsthm, booktabs, chemfig, graphicx, float, pgfplots}
 \usepackage[hidelinks]{hyperref}
 \usepackage{upgreek}
@@ -9,6 +10,17 @@
 \chemsetup[reactants]{concentration-unit=\moLar}
 \chemsetup{
   formula = mhchem, % or mhchem
+=======
+\usepackage{amsmath, amsthm, booktabs, chemfig, graphicx, float, pgfplots, siunitx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{upgreek}
+\usepackage[chemgreek=upgreek]{chemmacros}
+\usepackage[default]{sourcesanspro}
+\chemsetup[phases]{pos=sub}
+\chemsetup[reactants]{concentration-unit=\moLar}
+\chemsetup{
+	formula = mhchem, % or mhchem
+>>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074
 }
 
 \setlength{\parindent}{0pt}
@@ -21,9 +33,23 @@
 \title{\Huge Year 12 Geography}
 \author{L. Cheung}
 
+<<<<<<< HEAD
 \begin{document}
 \maketitle
 \tableofcontents
 
 \include{geoGlobalSustainability}
+=======
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+
+	\include{geoGlobalSustainability}
+	\include{geoUrbanAndRuralPlaces}
+>>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074
 \end{document}
