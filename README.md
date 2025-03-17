@@ -7,7 +7,6 @@ A compilation of notes for:
 - Chemistry
 - Geography
 
-<<<<<<< HEAD
 To contribute, branch or commit to main I'll accept literally any pull request
 The issues tab can be used to request new notes or to identify errors in the notes.
 
@@ -30,7 +29,7 @@ The issues tab can be used to request new notes or to identify errors in the not
 	- [	] Do Atomi wk. 5 6 7 8
 - Geography
 	- [ ]
-=======
+
 To contribute, branch or commit to main I'll accept literally any pull request.
 The issues tab can be used to request new notes or to identify errors in the notes.
 
@@ -43,7 +42,7 @@ ENG chinese-box structure of hagseed paragraph
 
 ENG read handout notes on textual form (on gc)
 
-MXX 3C(2-11)
+MXX 3C(2-11) 3D(1-14)
 
 GEO paragraphs
 
@@ -52,4 +51,3 @@ GEO understanding mossman
 GEO mossman poster
 
 PHYS magnetic flux notes
->>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074
