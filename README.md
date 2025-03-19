@@ -10,30 +10,6 @@ A compilation of notes for:
 To contribute, branch or commit to main I'll accept literally any pull request
 The issues tab can be used to request new notes or to identify errors in the notes.
 
-## Recent Updates (Week 7)
-| Subject⠀⠀⠀⠀⠀⠀⠀⠀⠀| New Updates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀				 |
-|-----------		|-----------------------------------------					|
-| English 			| 															|
-| Maths				| 															|
-| Physics			| 															|
-| Chemistry			| 															|
-| Geography			| 															|
-
-### Homework
-- English
-	- [ ] Upload study notes to Google Classroom, due Monday
-- Maths
-- Physics
-	- [ ] depth study
-- Chemistry
-	- [	] Do Atomi wk. 5 6 7 8
-- Geography
-	- [ ]
-
-To contribute, branch or commit to main I'll accept literally any pull request.
-The issues tab can be used to request new notes or to identify errors in the notes.
-
-
 ### Homework
 
 ENG write modA introduction
@@ -42,12 +18,12 @@ ENG chinese-box structure of hagseed paragraph
 
 ENG read handout notes on textual form (on gc)
 
-MXX 3C(2-11) 3D(1-14)
+MAT 5B 5E 11C
+
+MXX 3E(1-15)
 
 GEO paragraphs
 
 GEO understanding mossman
-
-GEO mossman poster
 
 PHYS magnetic flux notes
