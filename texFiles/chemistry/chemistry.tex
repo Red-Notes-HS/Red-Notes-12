@@ -1,29 +1,19 @@
 \documentclass{report}
 
 \usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
-<<<<<<< HEAD
-\usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, upgreek, siunitx, multirow, multicol}
-\usepackage[hidelinks]{hyperref}
-
-=======
 \usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, upgreek, siunitx, multirow, multicol, setspace}
-\usepackage[default]{sourcesanspro}
-\usepackage[T1]{fontenc}
+% \usepackage[default]{sourcesanspro}
+% \usepackage[T1]{fontenc}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage[hidelinks]{hyperref}
-
 \usepackage{gensymb}
 \newcommand{\perthousand}{‰}
 \newcommand{\micro}{µ}
->>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074
 \usepackage[chemgreek=mhchem]{chemmacros}
 \chemsetup[phases]{pos=sub}
 \chemsetup[reactants]{concentration-unit=\moLar}
 \chemsetup{
-<<<<<<< HEAD
   formula = mhchem, % or mhchem
-=======
-	formula = mhchem, % or mhchem
->>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074
 }
 
 \DeclareSIUnit{\solub}{\unit[per-mode=symbol]{\gram\per\qty{100}{\gram}\,\ce{H2O}}}
@@ -38,18 +28,6 @@
 \title{\Huge Year 12 Chemistry}
 \author{L. Cheung}
 
-<<<<<<< HEAD
-\begin{document}
-\maketitle
-\tableofcontents
-\DeclareSIUnit{\molar}{\mole\per\liter}
-
-
-\include{chemMod5}
-\include{chemMod6}
-
-
-=======
 \tolerance=1
 \emergencystretch=\maxdimen
 \hyphenpenalty=10000
@@ -64,5 +42,4 @@
 	\DeclareSIUnit{\enthalpy}{\kJ\per\mole}
 	\include{chemMod5}
 	\include{chemMod6}
->>>>>>> cf81edad4e0473ec9bca6c1bfa03dacb39d68074
 \end{document}
