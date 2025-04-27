@@ -471,3 +471,46 @@
 
 	It is a backwards motor.
 
+\newpage
+
+\section{AC Induction Motors}
+
+	Electrical motor where a rotor produces torque through phased electromagnetic induction from a stator.
+
+	\textbf{Stator}: coiled conductors (which act as solenoids, producing magnetic fields) connected to the AC mains power supply
+
+	\textbf{Rotor:} squirrel cage - numerous conductor bars attached to end rings
+		
+		\textbf{Bars:} conduct current
+
+		\textbf{End rings}: complete the circuit allowing for current flow
+
+	\textbf{Phase}: number of independent circuits (solenoids) pairs within stator, these circuits are connected to a different phase of the mains electrical supply, only one phase can receive voltage at a time (i.e during phase 2 neither phase 1 or 3 can receive voltage in a 3 phase motor).
+Each phase consists of a pair of solenoids which face each other on opposite ends of the stator. One of these solenoids are connected to their respective phase input (creating a magnetic North pole when given voltage) while the other is neutral (creating a magnetic South pole)
+
+	Most common AC induction motors are 3 phase, voltages are out of sync by 120°
+
+	\subsection{How AC induction motors work}
+
+		\begin{enumerate}
+			\item AC current flows through stator
+			\item During each phase, current flows through the respective solenoid creating an electromagnet
+			\item As the stator transitions through phases, a changing magnetic field is created, due to this a current is induced within the rotor (Faraday's law)
+			\item Consequently, an EMF is induced and force exerted within the rotor, both EMF and force are directed to oppose the change in magnetic flux and motion respectively
+			\item Hence the motor moves in the same direction as the magnetic field is moving (i.e the magnetic field moves clockwise, therefore the motor moves clockwise)
+		\end{enumerate}
+
+		\textbf{Example}
+
+			Let the rotor be the origin of a three phase induction motor (three phase therefore 3 solenoid pairs and 6 solenoids in total)
+
+			Phase 1 is a solenoid on a bearing of 330°T to the rotor, phase 2 is on a bearing of 30°T. The magnetic field moves in a clockwise motion, from the perspective of the rotor the field moves right, therefore the relative motion of the rotor is left to the magnetic field, hence force is directed left. Magnetic field is directed downwards towards the rotor.
+
+			Using the right hand push rule, thumb points into the page, due to the changing magnetic flux, oppose either force of magnetic field and the current produced is out of the page (Lenz’s law). Reapply right hand push rule, thumb out of the page and index finger down, therefore force is exerted towards the right
+
+	\subsection{Slip}
+	
+		The rotor always spins at a slower rate than the stators magnetic field, allowing for relative motion between the two and hence a change in magnetic flux, producing torque from the rotor
+			
+		Difference in stator and rotor speed = slip
+	

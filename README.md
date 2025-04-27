@@ -17,12 +17,3 @@ MAT 5A 5B 5C 5D 5E 5F 5G 5H 5I 6D 6E 6I 6J 6K 7D 7E
 MXX 3E(1-15)
 
 PHYS magnetic flux notes
-
-### Geo pack list
-
-- Phone
-- Wallet
-- Passport
-- Watch charger
-- Retainer
-- Toothpaste
