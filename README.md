@@ -12,8 +12,14 @@ The issues tab can be used to request new notes or to identify errors in the not
 
 ### Homework
 
-MAT 5A 5B 5C 5D 5E 5F 5G 5H 5I 6D 6E 6I 6J 6K 7D 7E
+ENG rewrite
 
-MXX 3E(1-15)
+MAX 12B 12C 12D 12E 12F 9A(7,8,10) 9B(10-14) 9C 9D 9F 13B
 
-PHYS magnetic flux notes
+MXX 2F(3-10,12-16) 4A 4B
+
+PHYS prac report
+
+CHEM 7.2 buffer prac
+
+GEO debate

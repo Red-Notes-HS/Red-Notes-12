@@ -1,0 +1,110 @@
+\documentclass{report}
+
+\usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
+\usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, upgreek, siunitx, multirow, multicol, setspace}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[hidelinks]{hyperref}
+\usepackage{gensymb}
+\newcommand{\perthousand}{‰}
+\newcommand{\micro}{µ}
+\usepackage[chemgreek=mhchem]{chemmacros}
+\chemsetup[phases]{pos=sub}
+\chemsetup[reactants]{concentration-unit=\moLar}
+\chemsetup{
+  formula = mhchem, % or mhchem
+}
+
+\DeclareSIUnit{\solub}{\unit[per-mode=symbol]{\gram\per\qty{100}{\gram}\,\ce{H2O}}}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+\pgfplotsset{compat=1.18}
+
+\graphicspath{{../../Images/}}
+
+\title{\Huge Year 12 Chemistry}
+\author{L. Cheung}
+
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\begin{document}
+	\setstretch{1.25}
+
+	\DeclareSIUnit{\molar}{\mole\per\liter}
+	\DeclareSIUnit{\enthalpy}{\kJ\per\mole}
+	\maketitle
+	\tableofcontents
+	\newpage
+
+\section{Chapter 8 Review}
+
+	\begin{enumerate}
+		\item \textbf{Explain why carbon is the basis for so many compounds.}
+		    \subitem 
+		\item \textbf{Draw electron dot diagrams to show how single, double and triple carbon-carbon bonds form.}
+		    
+		\item \textbf{Draw diagrams and name the geometrical shapes formed when carbon atoms have:}
+		\begin{enumerate}
+			\item \textit{four single bonds}
+				\begin{center}
+					\chemfig{C(-[2])(-[6])(-[8])-[4]}
+				\end{center}
+
+				Forms a tetrahedron
+
+			\item \textit{one double and two single bonds}
+				\begin{center}
+					\chemfig{C(=[0])(-[3])(-[5])}
+				\end{center}
+
+				Forms a trigonal planar
+
+			\item \textit{two double bonds}
+				\begin{center}
+					\chemfig{C(=[4])(=[0])}
+				\end{center}
+
+				Forms a linear structure
+
+			\item \textit{one triple and one single bond.}
+				\begin{center}
+					\chemfig{C(-[4])(~[0])}
+				\end{center}
+
+				Forms a linear structure
+
+		\end{enumerate}
+		    
+		\item \textbf{Describe, with examples, the difference between saturated and unsaturated compounds.}
+
+			Compounds are considered saturated when all carbon atoms have single bonds. For example, methane only has single bonds, hence is saturated. An unsaturated compound has at least one double or triple bonded carbon atom. An example of such is carbon dioxide.
+		    
+		\item \textbf{Describe, with examples, the difference between aromatic and aliphatic compounds.}
+
+			Aliphatic compounds have open chained structures, ie. the carbon chain has a ends, for example butane. These can also be branched compounds, with alkyls attached to the main branch.
+
+			Aromatic have one or more benzene rings, with the benzene compound being the most basic
+		    
+		\item \textbf{For each of the families of hydrocarbons (alkanes, alkenes and alkynes):}
+
+			\begin{itemize}
+				\item \textit{give the general formula}
+				\item \textit{write the molecular and structural formula for the first five in the series; for the alkenes and alkynes, have the double and triple bond on the first carbon.}
+			\end{itemize}
+
+			\begin{itemize}
+				\item Alkanes
+				\begin{itemize}
+					\item 
+				\end{itemize}
+			\end{itemize}
+		    
+		\item \textbf{Name the following hydrocarbons.}
+	\end{enumerate}
+
+\end{document}
+
