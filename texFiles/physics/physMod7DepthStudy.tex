@@ -1,8 +1,14 @@
 \documentclass{report}
 
-\usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry} \usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, setspace, siunitx, tabularray} \usepackage{tabularray} \usepackage[hidelinks]{hyperref}
+\usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry} \usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, gensymb, float, pgfplots, setspace, siunitx, tabularray}
+\usepackage{tabularray}
+\usepackage[hidelinks]{hyperref}
 
 \renewcommand{\familydefault}{\sfdefault}
+\newcommand{\asin}{\sin^{-1}}
+\newcommand{\acos}{\cos^{-1}}
+\newcommand{\atan}{\tan^{-1}}
+\newcommand{\ta}{\theta}
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.8em}
@@ -30,19 +36,19 @@
 	
 		\textbf{Summarise the historical and contemporary methods used to determine the speed of light and explain its current relationship to the measurement of time and distance.}
 
-			Galileo attempted to measure the speed of light by using lantern signals across a large distance and calculating the delay over the gap. However, varying human reflexes and the primitive time measuring equipment available inhibited any recordings taken.
+			\subitem Galileo attempted to measure the speed of light by using lantern signals across a large distance and calculating the delay over the gap. However, varying human reflexes and the primitive time measuring equipment available inhibited any recordings taken.
 
-			Later, Romer used the eclipses of Jupiter's moon Io to estimate the speed of light. Romer observed that the time between the eclipses was not constant. Using the assumption that the orbital period of Io was not changing, he deduced that the variation was due to changes in the difference in distance between Jupiter and Earth. From his observations, Romer found the speed of light to be 226,663 km/s, 24.4\% lower than its actual value.
+			\subitem Later, Romer used the eclipses of Jupiter's moon Io to estimate the speed of light. Romer observed that the time between the eclipses was not constant. Using the assumption that the orbital period of Io was not changing, he deduced that the variation was due to changes in the difference in distance between Jupiter and Earth. From his observations, Romer found the speed of light to be 226,663 km/s, 24.4\% lower than its actual value.
 
-			Fizeau used an experiment where a toothed wheel interfered with a light source that reflected off a mirror a great distance away. By adjusting the rotational velocity of the wheel, the reflected light may or may not have been reflected.
+			\subitem Fizeau used an experiment where a toothed wheel interfered with a light source that reflected off a mirror a great distance away. By adjusting the rotational velocity of the wheel, the reflected light may or may not have been reflected.
 
-			Foucault's experiment used a similar setup, however used a rotating mirror instead of a toothed wheel. By analysing the angle between the light source and the light received, Foucault could determine the speed of light.
+			\subitem Foucault's experiment used a similar setup, however used a rotating mirror instead of a toothed wheel. By analysing the angle between the light source and the light received, Foucault could determine the speed of light.
 
 			\begin{align*}
 				c &= \frac{d}{t} = \frac{d}{\frac{\Delta \theta}{\omega}} = \frac{d \omega}{\Delta \theta}
 			\end{align*}
 
-			Using Maxwell's discovery on electromagnetism in the 1860s, Rosa and Dorsey derived a formula using the electric permittivity and magnetic permeability constants to calculate the speed of light.
+			\subitem Using Maxwell's discovery on electromagnetism in the 1860s, Rosa and Dorsey derived a formula using the electric permittivity and magnetic permeability constants to calculate the speed of light.
 
 			\begin{align*}
 				c = \frac{1}{\sqrt{\epsilon \mu}}
@@ -114,13 +120,13 @@
 	
 		\textbf{Summarise your qualitative analysis of light diffraction, including the experimental setup, observations, and what these phenomena demonstrate about the wave properties of light.}
 
-			Light diffraction is the spreading out of a wave when passing around an obstacle. The scattering process changes the direction of propagation and causes the diffracting object to act as a secondary source of propagation. The degree of this direction change depends on the obstacle's size relative to that of the wavelength.
+			\subitem Light diffraction is the spreading out of a wave when passing around an obstacle. The scattering process changes the direction of propagation and causes the diffracting object to act as a secondary source of propagation. The degree of this direction change depends on the obstacle's size relative to that of the wavelength.
 
-			Waves passing through a slit a relative size to its wavelength experience diffraction that creates a repeating pattern with alternating bright and dark points. Huygen's wave model of light proposed that when a wave reaches an opening, its wavefront becomes many individual points each emitting their own wavelets. As a result, waves passing through a slit will propagate outwards from the slit.
+			\subitem Waves passing through a slit a relative size to its wavelength experience diffraction that creates a repeating pattern with alternating bright and dark points. Huygen's wave model of light proposed that when a wave reaches an opening, its wavefront becomes many individual points each emitting their own wavelets. As a result, waves passing through a slit will propagate outwards from the slit.
 
-			Diffraction through two slits creates two secondary wave sources that interact constructively or destructively to produce alternating minima and maxima of diffraction. The intensity of light decreases away from the centre line.
+			\subitem Diffraction through two slits creates two secondary wave sources that interact constructively or destructively to produce alternating minima and maxima of diffraction. The intensity of light decreases away from the centre line.
 
-			Young's double slit experiment involved passing a monochromatic light source through two narrow slits separated by a given distance. The results supported the wave model of light, where a particle based model could not account for the pattern produced.
+			\subitem Young's double slit experiment involved passing a monochromatic light source through two narrow slits separated by a given distance. The results supported the wave model of light, where a particle based model could not account for the pattern produced.
 				
 			\begin{figure}[H]
 				\centering
@@ -272,7 +278,7 @@
 
 \chapter{Review Questions}
 
-	\section{Electromagnetic Spectrum}
+	\section{Set 1}
 		\begin{enumerate}
 			\item B
 			\item D
@@ -329,5 +335,114 @@
 				If the star has high density, more collisions occur between atoms and furthermore between electrons. This produces variations in energy of the electrons that blurs the lines on the absorption spectrum.
 		\end{enumerate}
 
+	\section{Set 2}
+	
+		\begin{enumerate}
+			\item B
+			\item C
+			\item D
+			\item A
+			\item C
+			\item \textbf{Explain why light is refracted, using:}
+				\begin{enumerate}
+					\item \textit{Huygens' wave model}
+						\subitem Huygens' wave model stated that every point on the wavefront would act as source for  secondary wavelets. As the wavefront enters another medium, one part of the wavefront is affected first. This part of the wavefront is therefore sped up or slowed down depending on the medium the wave enters.
+
+					\item \textit{Newton's particle model}
+						\subitem Newton proposed that a force acted on each particle of light as they entered a new medium. When approaching the new medium, the particles would experience a force that would cause the beam to be refracted towards the normal.
+				\end{enumerate}
+			
+			\item \textbf{In an experiment shown in Figure 9.16, unpolarised light is incident upon a pair of polaroid filters which have their polarisation axes at an angle with respect to each other. The transmitted light was found to have an intensity of 10\% of the incident light intensity.}
+				\begin{enumerate}
+					\item \textit{Explain the difference between unpolarised and plane-polarised electromagnetic waves.}
+						\subitem Unpolarised electromagnetic waves have electric fields that oscillate in all directions perpendicular to wave velocity, whereas plane-polarised electromagnetic waves have electric fields that oscillate in one plane only.
+
+					\item \textit{Find the angle ($\theta$) between the axes of polarisation of the two polaroid filters}
+
+						\begin{align*}
+							I_1 &= \frac{1}{2} I_0 \\
+							I &= I_1 \cos^2{\theta}  = \frac{1}{2} I_0 \cos^2{\theta} \\
+							I &= 0.1 \times I_0 \\
+							\cos^2{\theta} &= 0.2 \\
+							\cos{\theta} &= \sqrt{0.2} \\
+							\theta &= \acos{\sqrt{0.2}} \\
+							&\approx 63.3 \degree
+						\end{align*}
+
+				\end{enumerate}
+
+			\item \textbf{When laser light of wavelength 630 nm is passed through a pair of slits, the first maxima on each side of the central maxima are found to be 12 cm apart from each other on a screen 4 m form the slits}
+				\begin{enumerate}
+					\item \textit{Why is laser light rather than light from an incandescent lamp used for interference experiments like this?}
+						\subitem Laser light is used because interference patterns are most obvious when monochromatic (one coloured) light is used. Therefore, lasers producing one wavelength of light are most appropriate for interference experiments.
+
+					\item \textit{What is the separation between the slits?}
+
+						\begin{align*}
+							d \sin{\theta} &= m \lambda	\\
+							d &= \frac{m \lambda}{\sin{\ta}} 	\\
+							  &= m \times 630 \times 10^{-9} \times \sin{\ta} \\
+							  &= m \times 630 \times 10^{-9} \times  \frac{4}{0.06} \\
+							  &= 42 \; \mu m
+						\end{align*}
+
+					\item \textit{If the double slits were replaced with a diffraction grating with a slit separation one-quarter of the double-slit separation, how would the interference pattern change?}
+						\subitem The diffraction grating would be sharper and the light would have a higher intensity. As well as this, the separation between maxima would be four times further.
+				\end{enumerate}
+
+			\item \textbf{Evaluate the importance of polarisation of light to the development of the wave model of light}
+				\subitem The polarisation of light created inaccuracies with the assumption of light as a particle. The process allowed some light to pass through and if light were a particle either all or none of it would pass. Furthermore, the development evolved the understanding of light as a wave, demonstrating that the compression wave theory proposed by Huygens was incorrect.
+
+			\item \textbf{A diffraction grating is used to investigate an atomic spectrum which is is known to contain of wavelength of 430 nm and one other longer wavelength. In the interference pattern produced by the grating, the fourth-order maxima of the 430 nm line is observed to fall at the same place as the third maxima of the longer wavelength line.}
+
+				\begin{enumerate}
+					\item \textit{Sketch a qualitative diagram to show the intensity of the interference pattern that would be produced by the grating. Include the first three maxima of the longer wavelength and the first four maxima of the shorter wavelength. Label the short wavelength maxima and long wavelength maxima}
+
+					\item \textit{Find the wavelength of the second line emitted from the atomic spectrum}
+						\begin{align*}
+							\lambda_\text{long} = \frac{4 \times 430 \times 10^{-9}}{3} \approx 573.3 \; nm
+						\end{align*}
+				\end{enumerate}
+
+		\end{enumerate}
+
+
+	\section{Set 3}
+
+		\begin{enumerate}
+			\item D
+			\item C
+			\item C
+			\item A
+			\item A
+			\item \textbf{The Sun has a surface temperature of 5778 K, yet to a good approximation it can be treated as a perfect black body.}
+				\begin{enumerate}
+					\item \textit{What do physicists mean when they talk about a "perfect black body"?}
+						\subitem A perfect black body absorbs and re-emits all electromagnetic waves no matter the wavelength.
+
+					\item \textit{Determine the wavelength and frequency at which the Sun emits the greatest intensity electromagnetic radiation}
+						\begin{align*}
+							\lambda_\text{max} &= \frac{b}{T} \\
+									   &= \frac{2.898 \times 10^{-3}}{5778} \\
+									   &\approx 5.02 \times 10^{-7} \; m
+						\end{align*}
+						\begin{align*}
+							f &= \frac{c}{\lambda} \\
+							  &= \frac{3.00 \times 10^8}{5.02 \times 10^{-7}} \\
+							  &\approx 5.98 \times 10^{14}
+						\end{align*}
+				\end{enumerate}
+
+			\item \textbf{This question refers to Figure 10.10}
+
+				\begin{enumerate}
+					\item \textit{Explain why the data shown in Figure 10.10 caused concern to physicists in the late 19th century}
+						\subitem When the classical electromagnetic wave model of light was applied to the black body radiation curve, it predicted that black bodies should emit an infinite amount of energy at high frequencies.
+
+					\item \textit{Plank solved the black-body problem by making assumptions that Einstein built upon to produce a new model of light. Compare Einstein's model of light with the classical electromagnetic wave model.}
+						\subitem
+				\end{enumerate}
+		\end{enumerate}
+	
 \end{document}
 
