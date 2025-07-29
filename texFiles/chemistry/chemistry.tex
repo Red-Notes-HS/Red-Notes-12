@@ -2,19 +2,23 @@
 
 \usepackage[a4paper, total={6in, 8in}, margin=1in,footskip=0.25in]{geometry}
 \usepackage{amsmath, amsthm, amssymb, booktabs, chemfig, graphicx, float, pgfplots, upgreek, siunitx, multirow, multicol, setspace}
-% \usepackage[default]{sourcesanspro}
-% \usepackage[T1]{fontenc}
+\usepackage[hidelinks]{hyperref}
+
 \renewcommand{\familydefault}{\sfdefault}
+
 \usepackage[hidelinks]{hyperref}
 \usepackage{gensymb}
 \newcommand{\perthousand}{‰}
 \newcommand{\micro}{µ}
+
 \usepackage[chemgreek=mhchem]{chemmacros}
 \chemsetup[phases]{pos=sub}
 \chemsetup[reactants]{concentration-unit=\moLar}
 \chemsetup{
   formula = mhchem, % or mhchem
 }
+\usepackage{chemformula}
+\setchemformula{}
 
 \DeclareSIUnit{\solub}{\unit[per-mode=symbol]{\gram\per\qty{100}{\gram}\,\ce{H2O}}}
 
