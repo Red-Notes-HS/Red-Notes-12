@@ -9,3 +9,8 @@ A compilation of notes for:
 
 To contribute, branch or commit to main I'll accept literally any pull request
 The issues tab can be used to request new notes or to identify errors in the notes.
+
+
+
+ppl who owe me money:
+- $19 jeffrey
